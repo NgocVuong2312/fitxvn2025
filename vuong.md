@@ -1,698 +1,678 @@
-Đâu KHÔNG phải là một đặc trưng của mạng LAN?
-A) Việc quản lý khai thác mạng tập trung thống nhất
-B) Tốc độ truyền cao
-C) Tỷ lệ lỗi bit cao ------------------------------------------------------------------------
-D) Thường là sở hữu của một tổ chức nào đó.
-
-Việt Nam chính thức kết nối mạng Internet vào năm nào?
-A) 1997 ------------------------------------------------------------------------
-B) 1996
-C) 1999
-D) 1998
-
-Các phân loại mạng theo quy mô tăng dần là?
-A) LAN - MAN - WAN - GAN ------------------------------------------------------------------------
-B) LAN - GAN- MAN - WAN
-C) LAN - GAN- WAN - MAN
-D) LAN - WAN - MAN - GAN
-
-Với loại chính sách nào, bộ định tuyến có thể quản lý luồng dữ liệu và lưu lượng thoại, ưu tiên liên lạc bằng giọng nói (voice) nếu mạng gặp tắc nghẽn?
-A) Chất lượng dịch vụ (QoS) ------------------------------------------------------------------------
-B) Khả năng chịu lỗi (fault tolerance)
-C) Bảo mật (Security)
-D) Khả năng mở rộng (Scalability)
-
-Tính bí mật (Confidentiality), tính toàn vẹn (integrity) và tính sẵn sàng (availability) là những yêu cầu của bốn đặc điểm cơ bản của kiến trúc mạng?
-A) Chất lượng dịch vụ (QoS)
-B) Bảo mật (Security) ------------------------------------------------------------------------
-C) Khả năng chịu lỗi (fault tolerance)
-D) Khả năng mở rộng (Scalability)
-
-Một tổ chức A có thể sử dụng cơ sở hạ tầng mạng nào để cung cấp quyền truy cập bảo mật và an toàn cho những cá nhân làm việc cho một tổ chức khác nhưng yêu cầu quyền truy cập vào dữ liệu của tổ chức A?
-A) Mạng WAN
-B) Extranet ------------------------------------------------------------------------
-C) Intranet
-D) Mạng LAN
-
-ISP có thể làm được chức năng của IXP (IAP) đúng hay sai?
-A) Không có đáp án đúng
-B) Sai ------------------------------------------------------------------------
-C) Trong 1 số trường hợp đúng, 1 số khác thì sai
-D) Đúng
-
-Đâu là hình trạng mạng dạng kết nối điểm-đa điểm (quảng bá)?
-A) Star và Mesh
-B) Star và Ring
-C) Bus và Mesh
-D) Bus và Ring ------------------------------------------------------------------------
-
-Chọn đán án đúng nhất về phương tiện truyền dẫn?
-A) Cáp đồng trục
-B) Cáp đôi xoắn
-C) Cáp quang
-D) Tất cả các phương án. ------------------------------------------------------------------------
-
-
-
-Thuật ngữ Internet xuất hiện đầu tiên vào năm nào?
-A) 1976
-B) 1978
-C) 1974 ------------------------------------------------------------------------
-D) 1972
-
-Khi các nhà thiết kế mạng tuân theo các tiêu chuẩn và giao thức được chấp nhận, thì đặc điểm nào trong bốn đặc điểm cơ bản của kiến trúc mạng sẽ đạt được?
-A) Bảo mật (Security)
-B) Chất lượng dịch vụ (QoS)
-C) Khả năng mở rộng (Scalability) ------------------------------------------------------------------------
-D) Khả năng chịu lỗi (fault tolerance)
-
-Có nhiều đường đi đến đích được gọi là dự phòng (redundancy). Đây là một ví dụ về đặc điểm nào của kiến trúc mạng?
-A) Chất lượng dịch vụ (QoS)
-B) Bảo mật (Security)
-C) Khả năng mở rộng (Scalability)
-D) Khả năng chịu lỗi (fault tolerance) ------------------------------------------------------------------------
-
-Cơ sở hạ tầng mạng nào cung cấp quyền truy cập cho người dùng và thiết bị cuối trong một khu vực địa lý nhỏ, thường là mạng trong một bộ phận trong doanh nghiệp, gia đình hoặc doanh nghiệp nhỏ?
-A) Extranet
-B) Mạng LAN ------------------------------------------------------------------------
-C) Mạng WAN
-D) Intranet
-
-Cơ sở hạ tầng mạng nào cung cấp quyền truy cập vào các mạng khác trên một khu vực địa lý rộng lớn, thường được sở hữu và quản lý bởi nhà cung cấp dịch vụ viễn thông?
-A) Mạng WAN ------------------------------------------------------------------------
-B) Mạng LAN
-C) Extranet
-D) Intranet
-
-Đâu KHÔNG phải là một giao thức mạng?
-A) TCP
-B) ICP ------------------------------------------------------------------------
-C) HTTP
-D) IP
-
-Đâu là một khẳng định SAI khi nói về mô hình phân lớp?
-A) Một lớp sẽ cung cấp dịch vụ cho lớp dưới và sử dụng dịch vụ của lớp trên. --------------------
-B) Mỗi hệ thống đều có cấu trúc lớp (số lớp, chức năng các lớp)
-C) Mỗi dịch vụ có thể có một hoặc nhiều cách triển khai khác nhau, cho phép lớp trên lựa chọn dịch vụ phù hợp
-D) Mỗi lớp có thể có một hoặc nhiều chức năng
-
-Tên của quá trình thêm thông tin giao thức vào dữ liệu khi nó di chuyển xuống lớp dưới là gì?
-A) Sequencing
-B) Segmentation
-C) De-encapsulation
-D) Encapsulation ------------------------------------------------------------------------
-
-
-
-
-
-Quá trình phân chia luồng dữ liệu lớn thành các phần nhỏ hơn trước khi truyền là gì?
-A) Duplexing
-B) Multiplexing
-C) Sequencing
-D) Segmentation ------------------------------------------------------------------------
-
-PDU của với lớp giao vận (Transport Layer) là gì?
-A) Packet
-B) Segment ------------------------------------------------------------------------
-C) Bits
-D) Frame
-
-Lớp nào (Layer) trong mô hình OSI chịu trách nhiệm mã hoá (encryption) dữ liệu?
-A) Transport
-B) Application
-C) Session
-D) Presentation ------------------------------------------------------------------------
-
-Quá trình chuyển đổi thông tin thành dạng thích hợp để truyền tải là gì?
-A) Formatting
-B) Encapsulation
-C) Decoding
-D) Encoding ------------------------------------------------------------------------
-
-Hai máy tính có thể sử dụng phương pháp nào để đảm bảo rằng các gói (packet) không bị hủy do quá nhiều dữ liệu được gửi quá nhanh?
-A) Điều khiển luồng (Flow Control) ------------------------------------------------------------------------
-B) Thời gian chờ phản hồi (Response Timeout)
-C) Phương thức truy cập (Access Method)
-D) Đóng gói (Encapsulation)
-
-Định dạng PDU nào được sử dụng khi NIC của host nhận được các bit từ phương tiện mạng (network medium)?
-A) Segment
-B) Frame ------------------------------------------------------------------------
-C) Packet
-D) File
-
-Bước nào của quá trình liên lạc liên quan đến việc xác định đúng địa chỉ của người gửi và người nhận?
-A) Decoding
-B) Formatting
-C) Encoding
-D) Encapsulation ------------------------------------------------------------------------
-
-Thuật ngữ nào mô tả chính sách cho phép các thiết bị mạng quản lý luồng dữ liệu để ưu tiên cho thoại (voice) và video?
-A) Internet
-B) QoS (Quality of service) ------------------------------------------------------------------------
-C) Intranet
-D) Extranet
-
-Phương pháp nào cho phép máy tính hành động tương ứng khi nó yêu cầu dữ liệu từ server và server mất quá nhiều thời gian để phản hồi?
-A) Đóng gói (Encapsulation)
-B) Phương thức truy cập (Access Method)
-C) Thời gian chờ phản hồi (Response Timeout) ------------------------------------------------------------
-D) Điều khiển luồng (Flow Control)
-
-Thuật ngữ nào mô tả một tập hợp các mạng LAN và WAN riêng (private) thuộc về một tổ chức?
-A) Internet
-B) Intranet ------------------------------------------------------------------------
-C) Extranet
-D) Peer-to-peer
-
-Trong mô hình OSI, lớp nào thực hiện việc chọn đường (định tuyến) và chuyển tiếp thông tin?
-A) Session
-B) Data link
-C) Transport
-D) Network ------------------------------------------------------------------------
-
-Lớp giao thức nào đóng gói dữ liệu vào các khung (Frames)?
-A) Application
-B) Data link ------------------------------------------------------------------------
-C) Transport
-D) Network
-
-Trong mô hình phân lớp, PDU là viết tắt của thuật ngữ nào?
-A) Protocol Datalink Unit
-B) Packet Datalink Unit
-C) Protocol Data Unit ------------------------------------------------------------------------
-D) Packet Data Unit
-
-Đâu là ba lớp (layer) của mô hình OSI tương ứng với lớp Application trong mô hình TCP/IP?
-A) Presentation, Transport, Session
-B) Presentation, Session, Data Link
-C) Application, Presentation, Session ------------------------------------------------------------------------
-D) Application, Presentation, Transport
-
-Thứ tự các lớp (layer) của mô hình OSI theo thứ tự từ trên xuống là?
-A) Application, Presentation, Session, Network, Transport, Data Link, Physical
-B) Application, Presentation, Session, Transport, Data Link, Network, Physical
-C) Application, Presentation, Transport, Session, Data Link, Network, Physical
-D) Application, Presentation, Session, Transport, Network, Data Link, Physical -------------------
-
-Đâu là một trong số ba thành phần nào của thời gian gửi thông điệp (message)?
-A) Retransmit time
-B) Flow control ------------------------------------------------------------------------
-C) Sequence numbers
-D) Response time
-
-Đâu là một khẳng định SAI khi nói về mô hình phân lớp?
-A) Mỗi lớp sẽ cung cấp dịch vụ của lớp trên
-B) Mỗi hệ thống đều có cấu trúc lớp (số lớp, chức năng các lớp)
-C) Mỗi dịch vụ có thể có một hoặc nhiều cách triển khai khác nhau, cho phép lớp trên lựa chọn dịch vụ phù hợp
-D) Mỗi lớp sẽ sử dụng dịch vụ của lớp dưới -----------------------------------------------------------------
-
-Vai trò của bộ điều chế số là chuyển tín hiệu ...........sang tín hiệu.............
-A) tương tự; số
-B) FSK; PSK
-C) PSK; FSK
-D) số; tương tự ------------------------------------------------------------------------
-
- 
-Tốc độ bit (Rbit) là tốc độ baud (Rbaud) có quan hệ với nhau như thế nào?
-A) Rbit = Rbaud * số bit trong 1 đơn vị tín hiệu --------------------------------------------------------------
-B) Rbaud = Rbit * số bit trong 1 đơn vị tín hiệu
-C) Rbit = 2*Rbaud
-D) Rbaud = 2*Rbit
-
-Theo định lý lấy mẫu Nyquist thì .......
-A) Fs >= Fmax ------------------------------------------------------------------------
-B) Fs > Fmax
-C) Fs < Fmax
-D) Fs <= Fmax
-
-Trong số các loại mã sau, loại mã hóa nào giải quyết vấn đề đồng bộ tín hiệu tốt nhất?
-A) NRZ-L
-B) Manchester ------------------------------------------------------------------------
-C) NRZ-I
-D) AMI
-
-Phương tiện truyền dẫn nào mà dữ liệu được mã hóa thông qua điều chế các tần số cụ thể của sóng điện từ?
-A) Cáp đồng trục
-B) Cáp đôi xoắn
-C) Cáp quang
-D) Truyền dẫn không dây (Wireless transmission) ---------------------------------------------------------
-
-Loại mã nào sử dụng 2 mức điện áp?
-A) Bipolar
-B) Tất cả các mã
-C) Polar
-D) Unipolar ------------------------------------------------------------------------
-
-Phương tiện truyền dẫn nào mà dữ liệu được mã hóa thành các xung ánh sáng?
-A) Cáp đồng trục
-B) Cáp quang ------------------------------------------------------------------------
-C) Truyền dẫn không dây (Wireless transmission)
-D) Cáp đôi xoắn
-
-Loại mã nào cho phép sửa các đoạn số liệu có nhiều bit “0” liên tiếp?
-A) B8ZS ------------------------------------------------------------------------
-B) AMI
-C) Manchester
-D) Manchester vi sai
-
-Sắp xếp theo thứ tự các bước thực hiện PCM: 1 - Mã hóa nhị phân; 2 - Lấy mẫu và giữ (PAM); 3 - Lượng tử hóa
-A) 2-1-3
-B) 2-3-1 ------------------------------------------------------------------------
-C) 1-2-3
-D) 3-2-1
-
-Đâu KHÔNG phải là một phương pháp điều chế dữ liệu số - tín hiệu tương tự?
-A) MSK ------------------------------------------------------------------------
-B) QAM
-C) ASK
-D) FSK
-
- 
-Vai trò của mã hóa số-số là chuyển dữ liệu ........... sang tín hiệu .............
-A) tương tự, tương tự
-B) số, tương tự
-C) tương tự, số
-D) số, số ------------------------------------------------------------------------
-
-Khẳng định nào sau đây là SAI?
-A) Tốc độ baud và tốc độ bit không bao giờ bằng nhau
-B) Tốc độ bit sẽ bằng tốc độ baud trong trường hợp tín hiệu nhị phân
-C) Tốc độ bit luôn lớn hơn hoặc bằng tốc độ baud ---------------------------------------------------------
-D) Tốc độ baud luôn lớn hơn hoặc bằng tốc độ bit
-
-Loại mã hóa nào KHÔNG có sự thay đổi điện áp ở giữa khoảng bit?
-A) Manchester vi sai
-B) Manchester
-C) RZ
-D) NRZ-L ------------------------------------------------------------------------
-	
-Phương tiện truyền dẫn nào mà dữ liệu được mã hóa thành các xung điện?
-A) Cáp quang, cáp đôi xoắn
-B) Cáp đôi xoắn, cáp đồng trục ------------------------------------------------------------------------
-C) Truyền dẫn không dây (Wireless transmission)
-D) Cáp đồng trục, cáp quang
-
-Cáp ......... thường được sử dụng trong mạng dạng Bus, cáp ........... thường được sử dụng trong mạng dạng Star?
-A) cáp xoắn đôi, cáp đồng trục
-B) cáp xoắn đôi, cáp quang
-C) cáp đồng trục, cáp xoắn đôi ------------------------------------------------------------------------
-D) cáp quang, cáp đồng trục
-
-Trong phương pháp CRC, bộ chia có kích thước so với CRC như thế nào?
-A) Ít hơn 1 bit
-B) Có thể ít hơn hoặc nhiều hơn 1 bit
-C) Nhiều hơn 1 bit ------------------------------------------------------------------------
-D) Cùng kích thước
-
-Tính chiều dài LRC, biết dữ liệu được chia làm 10 nhóm, mỗi nhóm 8 bit thì số bit của LRC sẽ là .......... bit
-A) 8 ------------------------------------------------------------------------
-B) 80
-C) 18
-D) 10
-
-Nếu sử dụng mã VRC, dữ liệu gốc là 0100110 thì dữ liệu gửi lên đường truyền sẽ là?
-A) 00100110
-B) 10100110
-C) 01001100
-D) 01001101 ------------------------------------------------------------------------
-
-Trong quá trình chuyển đổi tương tự-số, lấy mẫu tín hiệu có 13 mứC)  Hỏi cần bao nhiêu bit trong mỗi mẫu?
-A) 3 bit
-B) 4 bit ------------------------------------------------------------------------
-C) 5 bit
-D) 6 bit
-
- 
-Phương pháp nào chỉ dùng 1 bit dư thừa trong đơn vị dữ liệu?
-A) Checksum
-B) LRC
-C) CRC
-D) VRC ------------------------------------------------------------------------
-
-Cho đa thức sinh P = x5 + x2 + x + 1, hãy xác định số chia dùng trong bộ chia CRC?
-A) 111001
-B) 100111 ------------------------------------------------------------------------
-C) 000001001010
-D) 111110110101
-
-Trong CRC, không có lỗi khi số dư tại máy thu ............
-A) bằng với thương số của máy phát
-B) khác không
-C) bằng với số dư tại máy phát
-D) bằng không
-
-Chọn khẳng định SAI khi nói về lỗi truyền thông?
-A) Lỗi đơn bit thường xảy ra do nhiễu trắng.
-B) Với nhiễu bệt, chiều dài của bệt tính từ bit sai đầu tiên cho đến bit sai cuối. Tất cả các bit bên trong bệt đều bị lỗi. ------------------------------------------------------------------------
-C) Lỗi bệt (Error burst) là lỗi có hai hoặc nhiều bit sai trong đơn vị dữ liệu.
-D) Lỗi đơn bit là lỗi chỉ có một bit bị sai trong một đơn vị dữ liệu.
-
-Trong CRC, thương số tại máy phát sẽ trở thành ...........
-A) bộ chia tại máy thu
-B) số bị chia
-C) bị loại bỏ ------------------------------------------------------------------------
-D) là số dư
-
-Cho tín hiệu có băng thông 13kHz (từ 1khz đến 14khz). Tốc độ lấy mẫu bằng bao nhiêu?
-A) 22000 mẫu/giây
-B) 26000 mẫu/giây
-C) 14000 mẫu/giây
-D) 28000 mẫu/giây ------------------------------------------------------------------------
-
-Phương pháp ARQ nào được dùng nếu khi nhận được NAK, thì tất cả các frame kể từ lúc frame xác nhận cuối cùng được truyền lại?
-A) Poll/Select
-B) Go-back-n ------------------------------------------------------------------------
-C) Select-Reject
-D) Stop and Wait
-
-Trong phương pháp Stop and Wait ARQ, nếu dữ liệu 1 (DATA 1) có lỗi, thì máy thu gửi về frame nào?
-A) NAK 2
-B) NAK ------------------------------------------------------------------------
-C) NAK 1
-D) NAK 0
-
-Trong phương pháp điều khiển lưu lượng dừng và đợi (Stop and Wait), để truyền đi n gói thì bao nhiêu frame xác nhận ACK cần có?
-A) 2n
-B) n
-C) n+1
-D) n-1 ------------------------------------------------------------------------
-
- 
-Một frame ACK 3 trong phương pháp điều khiển luồng cửa sổ trượt (cửa sổ kích thước là 7) cho thấy là frame mà máy thu muốn nhận là Frame số mấy?
-A) 8
-B) 2
-C) 3 ------------------------------------------------------------------------
-D) 4
-
-Phương pháp ARQ nào được dùng khi nhận được NAK, chỉ frame bị hỏng hay thất lạc là được gửi lại?
-A) Poll/Select
-B) Stop and Wait
-C) Select-Reject ------------------------------------------------------------------------
-D) Go-back-n
-
-Mã Hamming là phương pháp dùng để ..............
-A) đóng gói lỗi
-B) phát hiện lỗi, không sửa được lỗi
-C) sửa lỗi ------------------------------------------------------------------------
-D) tất cả các phương án đều đúng
-
-Trong go-back-n ARQ, nếu các frame 4,5,6 được nhận thành công, thì máy thu sẽ gửi frame ACK nào cho máy phát?
-A) 7 ------------------------------------------------------------------------
-B) 6
-C) 5
-D) Là 1 số khác
-
-Điều khiển lưu lượng (luồng) là cần thiết để ngăn ngừa .................
-A) bộ đệm máy thu quá tải ------------------------------------------------------------------------
-B) bộ đệm máy phát quá tải
-C) lỗi các bit
-D) tranh chấp giữa máy phát và máy thu
-
-Thiết bị THỨ CẤP trong cấu hình đa điểm sẽ gửi dữ liệu khi bào?
-A) Poll ------------------------------------------------------------------------
-B) ACK
-C) ENQ
-D) Select
-
-Cho dữ liệu là 10110110. Sử dụng mã Hamming để sửa lỗi thì thì số bit dư thừa cần thêm vào là bao nhiêu bit?
-A) 3
-B) 6
-C) 5
-D) 4 ------------------------------------------------------------------------
-
-Đâu là những thiết bị hoạt động tại tầng 1 của mô hình OSI?
-A) Repeater, Hub, Modem ------------------------------------------------------------------------
-B) Repeater, Bridge, Modem
-C) Switch, Hub, Modem
-D) Switch, NIC, Modem
-
-Phương tiện liên lạc có dây nào sau đây có một dây dẫn trung tâm được bao quanh bởi lớp cách điện, một tấm chắn kim loại và vỏ cuối cùng bằng vật liệu cách điện?
-A) Category 5 cable
-B) Cáp xoắn đôi (Twisted-pair cable)
-C) Sợi quang (Optical fiber)
-D) Cáp đồng trục (Coaxial cable) ------------------------------------------------------------------------
-
- 
-Đâu là khẳng định đúng khi nói về Hub?
-A) Chia Collision domain, chia Broadcast domain
-B) Không chia Collision domain, chia Broadcast domain
-C) Chia Collision domain, không chia Broadcast domain
-D) Không chia Collision domain, không chia Broadcast domain ----------------------------------------
-
-Kỹ thuật điều khiển truy nhập đường truyền nào mà các mạng IEEE 802.11 sử dụng?
-A) Token Bus
-B) Token Ring
-C) CSMA/CA ------------------------------------------------------------------------
-D) CSMA/CD
-
-Thuật ngữ được sử dụng để mô tả lượng thông tin mà một phương tiện truyền thông có thể truyền tải trong một khoảng thời gian nhất định là gì?
-A) Bandwidth  ------------------------------------------------------------------------
-B) Clickstream
-C) Scalability
-D) Expandability
-
-Điều nào sau đây đề cập đến thẻ mở rộng cho máy tính để bàn hoặc thẻ PC cho máy tính xách tay kết nối máy tính của bạn với mạng và cung cấp lối vào cho luồng thông tin vào và ra?
-A) Router
-B) ISP card
-C) Network Interface Card ------------------------------------------------------------------------
-D) Wireless card
-
-Đâu là khẳng định đúng khi nói về Router?
-A) Chia Collision domain, chia broadcast domain -----------------------------------------------------------
-B) Không chia Collision domain, chia broadcast domain
-C) Chia Collision domain, không chia broadcast domain
-D) Không chia Collision domain, không chia Broadcast domain
-
-Chế độ truyền thông nào sau đây hỗ trợ lưu lượng hai chiều nhưng chỉ theo một hướng trong một thời điểm?
-A) Three-quarters duplex
-B) Full duplex
-C) Simplex
-D) Half-duplex ------------------------------------------------------------------------
-
-Thiết bị nào sau đây là thiết bị mạng kết nối các máy tính và truyền tin nhắn bằng cách chuyển tiếp đơn vị dữ liệu nó nhận được chỉ đến đúng nơi nhận dự kiến, không phải đến tất cả các máy tính được kết nối?
-A) Network Interface Card 
-B) Cat 5 ------------------------------------------------------------------------
-C) broadband router
-D) Switch
-
-Thiết bị nào sau đây cho phép máy tính sử dụng sóng vô tuyến để truy cập mạng?
-A) Local area network
-B) Router
-C) Wireless access point (WAP) ------------------------------------------------------------------------
-D) Switch
-
-Các mạng không dây Wi-Fi sử dụng chuẩn IEEE nào?
-A) 802.11 ------------------------------------------------------------------------
-B) 802.5
-C) 802.3
-D) 802.9
-
-Kỹ thuật nào được sử dụng để phát hiện xung đột trong mạng LAN?
-A) CSMA/CD ------------------------------------------------------------------------
-B) CDMA
-C) 3G
-D) GSM
-
-Trong ................, một gói duy nhất được gửi từ nguồn đến đích trên mạng.
-A) multicast transmission
-B) broadcast transmission
-C) half duplex.
-D) unicast transmission ------------------------------------------------------------------------
-
-Một mạng chỉ sử dụng các máy tính với card LAN không dây được gọi là:
-A) WiMax
-B) BSS
-C) Ad-Hoc ------------------------------------------------------------------------
-D) ESS
-
-Thiết bị mạng nào sau đây cho phép bạn chia sẻ kết nối Internet với các máy tính khác trong nhà?
-A) Ethernet card
-B) RJ-45 connector
-C) Cat 5
-D) router ------------------------------------------------------------------------
-
-Đâu là khẳng định đúng khi nói về Bridge?
-A) Không chia Collision domain, chia Broadcast domain
-B) Chia Collision domain, không chia Broadcast domain -------------------------------------------------
-C) Chia Collision domain, chia Broadcast domain
-D) Không chia Collision domain, không chia Broadcast domain
-
-Số 5 trong luật 5-4-3 có ý nghĩa gì?
-A) Nối tối đa 5 repeater lại với nhau
-B) Có tối đa 5 máy tính trong mỗi phân đoạn mạng (segment)
-C) Nối tối đa 5 máy tính lại với nhau
-D) Nối tối đa 5 nhánh mạng lại với nhau bằng các Repeater --------------------------------------------
-
-Câu nào mô tả đúng nhất về mạng WAN?
-A) Mạng WAN kết nối các mạng LAN ở khoảng cách xa. ------------------------------------------------
-B) Mạng WAN là một tiện ích công cộng cho phép truy cập Internet.
-C) WAN là tên gọi khác của Internet.
-D) Mạng WAN là mạng LAN được mở rộng để cung cấp khả năng truy cập mạng từ xa an toàn.
-
-Trường hợp nào doanh nghiệp quyết định triển khai mạng WAN doanh nghiệp?
-A) Khi nào mạng sẽ bao trùm nhiều tòa nhà.
-B) Khi nhân viên của nó được phân bổ trên nhiều địa điểm chi nhánh. -------------------------------
-C) Khi số lượng nhân viên vượt quá khả năng của mạng LAN.
-D) Khi doanh nghiệp quyết định bảo mật mạng LAN công ty của mình.
-
-Công nghệ chuyển mạch kênh WAN nào thường được sử dụng để cung cấp dự phòng cho kênh thuê riêng (leased line) và dung lượng bổ sung trong thời gian sử dụng cao điểm?
-A) X.25
-B) DSL
-C) ISDN ------------------------------------------------------------------------
-D) Cable modem
-
- 
-Cái gì được tạo ra giữa hai DTE (Data Terminal Equipment; ví dụ máy tính, máy in, bộ định tuyến...) trong mạng Frame Relay?
-A) Virtual circuit ------------------------------------------------------------------------
-B) Limited access circuit
-C) Switched parallel circuit
-D) ISDN circuit
-
-Phát biểu nào về việc sử dụng kênh thuê riêng cho cơ sở hạ tầng WAN là đúng?
-A) Nhiều kênh thuê riêng có thể chia sẻ giao diện bộ định tuyến.
-B) Đường dây thuê riêng cung cấp khả năng mở rộng băng thông rất linh hoạt. -------------------
-C) Đường dây thuê riêng cung cấp khả năng truy cập mạng WAN rẻ tiền.
-D) Kênh thuê riêng có đủ băng thông có thể tránh được độ trễ giữa các điểm cuối.
-
-Phát biểu nào về mối quan hệ giữa mạng LAN và mạng WAN là đúng?
-A) Mạng WAN thường được vận hành thông qua nhiều ISP, nhưng mạng LAN thường được vận hành bởi các tổ chức hoặc cá nhân đơn lẻ. -------------------------------------------------------------
-B) Cả LAN và WAN đều kết nối các thiết bị đầu cuối.
-C) Mạng WAN phải thuộc sở hữu chung, nhưng mạng LAN có thể thuộc sở hữu của tổ chức công hoặc tư nhân.
-D) Mạng LAN kết nối nhiều mạng WAN với nhau.
-
-Kỹ thuật mạng WAN nào được xây dựng dựa trên cấu trúc tế bào (cell) chứ không dựa trên cấu trúc frame?
-A) X.25
-B) ISDN
-C) Leased line
-D) ATM ------------------------------------------------------------------------
-
-Tình huống nào mô tả việc truyền dữ liệu qua kết nối WAN?
-A) Một nhân viên chia sẻ tệp cơ sở dữ liệu với một đồng nghiệp làm việc tại văn phòng chi nhánh một thành phố khác. ------------------------------------------------------------------------
-B) Một nhân viên in một tệp thông qua một máy in được nối mạng nằm trong một tòa nhà khác.
-C) Người quản lý gửi email cho tất cả nhân viên trong bộ phận có văn phòng nằm trong một số tòa nhà.
-D) Quản trị viên mạng trong văn phòng truy cập từ xa vào máy chủ web được đặt tại trung tâm dữ liệu ở trong công ty.
-
-Kỹ thuật mạng WAN nào phù hợp khi cần phải có một kết nối dành riêng cố định?
-A) DSL
-B) Cable modem ------------------------------------------------------------------------
-C) Frame Relay
-D) Leased line
-
-Trong mô hình TCP/IP, TCP và UDP thuộc tầng:
-A) Application
-B) Network access
-C) Transport ------------------------------------------------------------------------
-D) Session
-
-Chọn phát biểu SAI về TCP:
-A) TCP có thực hiện điều khiển lỗi.
-B) TCP có thực hiện điều khiển luồng.
-C) TCP là phương thức truyền không hướng kết nối. -----------------------------------------------------
-D) TCP là phương thức truyền tin cậy.
-
- 
-TCP dùng giao thức nào sau đây để điều khiển luồng :
-A) Sliding Window Protocol. ------------------------------------------------------------------------
-B) Transmission Control Protocol.
-C) Tất cả các phương án đều sai.
-D) Stop and Wait Protocol.
-
-Ưu điểm của dịch vụ không kết nối (Connectionless service) khi so sánh với dịch vụ hướng kết nối
-(Connection-oriented service) là:
-A) Chất lượng dịch vụ có thể được đảm bảo
-B) Độ tin cậy cao
-C) Không mất thời gian thiết lập và quản lý kết nối ---------------------------------------------------------
-D) Giải quyết tắt nghẽn tốt hơn
-
-Để phát hiện lỗi trong gói tin, giao thức TCP, UDP sử dụng kỹ thuật nào?
-A) Bộ định thời (Timer)
-B) Số thứ tự xác nhận (Acknowledgement Number)
-C) Số thứ tự (Sequence Number)
-D) Checksum ------------------------------------------------------------------------
-
-Ứng dụng nào sau đây phù hợp với dịch vụ hướng không kết nối (Connectionless service)
-A) Email
-B) Trình duyệt web
-C) Hệ thống thanh toán qua mạng
-D) Hệ thống hội thảo video trực tuyến ------------------------------------------------------------------------
-
-Tên của giao thức ở tầng vận chuyển của bộ giao thức TCP/IP mà đặc điểm chính của nó là phân phối dữ liệu tin cậy:
-A) User Datagram Protocol.
-B) Transmission Control Protocol. ------------------------------------------------------------------------
-C) Internet Protocol.
-D) Tất cả các phương án đều đúng.
-
-Giao thức TCP hoạt động cùng tầng với (những) giao thức nào?
-A) ARP, RARP
-B) FTP, TELNET
-C) UDP ------------------------------------------------------------------------
-D) IP, ARP
-
-Trong mạng máy tính, số hiệu cổng (port) dùng để xác định:
-A) Địa chỉ của một ứng dụng trên một máy tính
-B) Địa chỉ của một máy tính trên internet
-C) Địa chỉ của một ứng dụng trên internet
-D) Giao thức trao đổi thông tin giữa các ứng dụng trong mô hình client-server --------------------
-
-Giao thức UDP phù hợp nhất với ưng dụng nào sau đây?
-A) Thanh toán qua mạng
-B) Truyền tải file qua mạng
-C) Video conference ------------------------------------------------------------------------
-D) Truyền tải email qua mạng
-
-Tầng truy cập mạng (Network Access) của mô hình TCP/IP) tương ứng với 2 tầng nào trong mô hình OSI?
-A) Transport, Session
-B) Data Link, Session
-C) Physical, Transport
-D) Data Link, Physical ------------------------------------------------------------------------
-
- 
-Giao thức UCP có đơn vị dữ liệu truyền là:
-A) UCP frame
-B) UCP datagram ------------------------------------------------------------------------
-C) UCP segment
-D) UCP packet
-
-TCP có khả năng phát hiện lỗi, khi TCP segment có lỗi thì :
-A) Bên nhận gửi NAK về lại bên gửi và yêu cầu gửi lại. --------------------------------------------------
-B) Tất cả các phương án đều sai.
-C) Bên gửi nhận biết và gửi lại.
-D) Bên nhận loại bỏ TCP segment này.
-
-Giao thức nào được sử dụng để thông báo lỗi liên quan đến IP?
-A) RTMP
-B) ICMP ------------------------------------------------------------------------
-C) SMTP
-D) SNMP
-
-Giao thức phân giải địa chỉ IP thành địa chỉ MAC?
-A) DNS
-B) TCP
-C) ARP ------------------------------------------------------------------------
-D) RARP
-
-Thứ tự các lớp tính từ trên xuống trong mô hình TCP/IP là:
-A) Internet - Network Access - Transport - Application
-B) Application - Transport - Internet - Network Access ----------------------------------------------------
-C) Transport - Internet - Network Access - Application
-D) Application - Internet - Transport - Network Access
-
-Giao thức phân giải địa chỉ MAC thành địa chỉ IP?
-A) DNS
-B) RARP ------------------------------------------------------------------------
-C) ARP
-D) TCP
-
-TCP dùng giao thức nào sau đây để thiết lập kết nối:
-A) Sliding Window Protocol.
-B) Transmission Control Protocol.
-C) Three-way handshake ------------------------------------------------------------------------
-D) Tất cả các phương án đều sai
-
-Một cổng TCP kết hợp với địa chỉ IP tạo thành một đầu nối TCP/IP (socket) duy nhất trong liên mạng. Dịch vụ TCP được cung cấp nhờ một liên kết logic giữa một cặp socket, gồm:
-A) (địa chỉ IP nguồn, số hiệu cổng nguồn, địa chỉ MAC đích, số hiệu cổng đích)
-B) (địa chỉ MAC nguồn, số hiệu cổng nguồn, địa chỉ MAC đích, số hiệu cổng đích)
-C) (địa chỉ MAC nguồn, số hiệu cổng nguồn, địa chỉ IP đích, số hiệu cổng đích)
-D) (địa chỉ IP nguồn, số hiệu cổng nguồn, địa chỉ IP đích, số hiệu cổng đích) ----------------------
+Câu 1. Đặc điểm của mail offline là:
+
+
+A.	-------Server mail nội bộ phải hoạt động liên tục (24/24)
+B.	Thuê host mail của nhà cung cấp dịch vụ
+C.	Server mail nội bộ không cần chạy liên tục
+D.	Câu b và c là đúng
+
+Câu 8. Để thực hiện phân giải ngược cho các máy thuộc mạng 192.168.20.0 ta cần định
+nghĩa zone có tên
+
+
+A.	192.168.20.in-addr.arpa
+B.	192.168.20.0.in-addr.arpa
+C.	-------20.168.192.in-addr.arpa
+D.	0.20.168.192.in-addr.arpa
+
+
+
+Câu 9. Để thiết lập địa chỉ IP cho card mạng eth0 dùng lệnh ifconfig, ta phải thực hiện lệnh
+nào?
+
+A.	ifconfig eth0 172.16.10.11/255.255.255.0
+B.	-------ifconfig eth0 172.16.10.11 mask 255.255.255.0
+C.	ifconfig eth0 172.16.10.11 netmask 255.255.255.0
+D.	ifconfig eth0 172.16.10.11 mask 255.255.255.0
+
+Câu 10. Dịch vụ SMTP chạy ở port nào?
+
+A.	--------25
+B.	26
+C.	30
+D.	54
+
+Câu 13. Làm thế nào để cấu hình một máy tính Windows Server 2016 làm DHCP Server?
+A.	----------Sử dụng công cụ Server Manager để cài đặt dịch vụ DHCP và cấu hình các phạm vi IP
+B.	Sử dụng PowerShell để cài đặt dịch vụ DHCP và cấu hình các phạm vi IP
+C.	Sử dụng lệnh netsh để cài đặt dịch vụ DHCP và cấu hình các phạm vi IP
+D.	Tất cả đều sai.
+
+Câu 14. Với chức năng gì, bạn có thể quản lý các giao diện mạng và cấu hình chúng trong Windows Server 2016?
+A.	Network Address Translation (NAT)
+B.	Remote Access
+C.	-----------Routing and Remote Access (RRAS)
+D.	Network Policy Server (NPS)
+Câu 15. Bạn có thể sử dụng chức năng nào trong Windows Server 2016 để cấu hình kết nối mạng giữa các máy chủ?
+A.	---------Network Load Balancing (NLB).
+B.	DNS Server
+C.	DHCP Server
+D.	Group Policy
+Câu 16. Trong Active Directory của Windows Server 2016, một tài khoản người dùng bị khóa sau bao nhiêu lần đăng nhập không thành công?
+A.	2 lần
+B.	-----------3 lần
+C.	4 lần
+D.	5 lần
+Câu 17. Remote Desktop Services (RDS) trong Windows Server 2016 cung cấp cho người dùng khả năng gì?
+A.	Quản lý các ứng dụng trên máy tính từ xa.
+B.	Truy cập máy tính từ xa qua giao thức RDP.
+C.	Cung cấp các dịch vụ điều khiển từ xa cho các máy tính.
+D.	--------Cả B và C đúng.
+Câu 18. Những giao thức nào được sử dụng để kết nối và quản lý từ xa trong Windows Server 2016?
+A.	SSH và Telnet.
+B.	----------RDP và VNC.
+C.	SCP và FTP.
+D.	HTTP và HTTPS.
+Câu 19. Giao thức SMB (Server Message Block) được sử dụng trong Windows Server để làm gì?
+A.	-------Chia sẻ tài nguyên mạng.
+B.	Quản lý các ứng dụng trên máy tính từ xa.
+C.	Truy cập máy tính từ xa qua giao thức RDP.
+D.	Xử lý khối dữ liệu trong không gian mạng
+Câu 20. Trong Windows Server 2016, Group Policy Objects (GPOs) là gì?
+A.	Các tập tin cấu hình được lưu trữ trên máy chủ.
+B.	Các tài khoản người dùng được quản lý bởi Active Directory.
+C.	----------Các chính sách được áp dụng cho các thiết bị và người dùng trên mạng.
+D.	Cả a và b.
+Câu 21. PowerShell là gì trong Windows Server 2016?
+A.	Một công cụ quản lý mạng.
+B.	--------Một giao diện dòng lệnh cho việc quản lý hệ thống.
+C.	Một phần mềm quản lý máy chủ.
+D.	Một công cụ giám sát mạng.
+Câu 22. Những tính năng nào được cung cấp bởi Network Controller trong Windows Server 2016?
+A.	Quản lý các máy chủ mạng.
+B.	Cấu hình các máy tính đang kết nối với mạng.
+C.	Giám sát và quản lý các thiết bị mạng.
+D.	------Cả b và c.
+Câu 23. Tính năng Failover Clustering trong Windows Server 2016 được sử dụng để làm gì?
+A.	Sao lưu và khôi phục dữ liệu.
+B.	----------Cung cấp khả năng chịu lỗi cho các dịch vụ trên mạng.
+C.	Quản lý các máy chủ mạng.
+D.	Tất cả các phương án đều sai.
+Câu 24. Trong Windows Server 2016, tính năng Hyper-V được sử dụng để làm gì?
+A.	-------------Tạo và quản lý các máy ảo.
+B.	Quản lý các thiết bị trong mạng.
+C.	Giám sát và quản lý các thiết bị mạng.
+D.	Sao lưu và phục hồi dữ liệu trên mạng.
+Câu 25. Lệnh nào trong PowerShell thực hiện việc ngừng nhân bản máy ảo (virtual machine replication)
+A.	-----------Stop-VMReplication
+B.	Terminate-VMReplication
+C.	Kill-VMReplication
+D.	Drainstop-VMReplication
+Câu 26. Trong Windows Server 2016, tính năng Windows Deployment Services (WDS) được sử dụng để làm gì?
+A.	Quản lý các thiết bị trong mạng.
+B.	Tạo và quản lý các máy ảo.
+C.	Sao lưu và phục hồi dữ liệu trên mạng.
+D.	---------Triển khai hệ điều hành Windows trên nhiều máy tính.
+Câu 27. Lệnh nào trong Windows PowerShell giúp tạo mới 1 Cluster:
+A.	-----------New-NlbCluster
+B.	Create-NlbCluster
+C.	Setup-NlbCluster
+D.	Set-NlbCluster
+Câu 28. Tính năng DirectAccess trong Windows Server được sử dụng để làm gì?
+A.	Cung cấp bảo mật cho dữ liệu trên mạng.
+B.	Quản lý các thiết bị trong mạng.
+C.	-----------Cho phép người dùng kết nối từ xa vào mạng nội bộ của doanh nghiệp.
+D.	Cấu hình và quản lý các thiết lập trong mạng.
+Câu 29. Vai trò của Active Directory Domain Services (AD DS) trong hệ thống Windows Server 2016 là gì?
+A.	Quản lý quyền truy cập tài nguyên trên mạng.
+B.	Quản lý phân phối dịch vụ DNS trên mạng.
+C.	Quản lý phân phối dịch vụ DHCP trên mạng.
+D.	-----------Quản lý các máy tính và người dùng trên mạng.
+Câu 30. Lệnh nào được sử dụng để sao lưu hệ thống tập tin trong Windows?
+A.	-------wbadmin start backup
+B.	ntbackup start backup
+C.	backup start system
+D.	backup system start
+Câu 31. Phần mềm nào được sử dụng để quản lý cụm máy chủ trong Windows Server 2016?
+A.	--------System Center Configuration Manager
+B.	Active Directory Domain Services
+C.	Group Policy Management
+ 
+D.	\Windows Deployment Services
+Câu 32. Lệnh nào được sử dụng để kết nối với một máy chủ từ xa trong PowerShell?
+A.	Connect-Server
+B.	Enter-PSHost
+C.	----------Enter-PSSession
+D.	Join-Server
+Câu 33. Cú pháp nào được sử dụng để chạy một script trong PowerShell?
+A.	run script.ps1
+B.	start script.ps1
+C.	execute script.ps1
+D.	-------------./script.ps1
+Câu 34. Lệnh để cài đặt Hyper-V trên máy tính chạy Windows Server 2016 phiên bản Server Core?
+A.	start /w ocsetup Hyper-V
+B.	start /w ocsetup microsoft-hyper-v
+C.	----------start /w ocsetup Microsoft-Hyper-V
+D.	start /w ocsetup hyper-v
+Câu 35. Để cấu hình Windows Deployment Services, bạn cần sử dụng công cụ nào?
+A.	----------Windows Deployment Services Management Console
+B.	Group Policy Management Console
+C.	Windows PowerShell
+D.	Active Directory Users and Computers
+Câu 36. Lệnh nào có chức năng thêm 1 file image Windows Server vào WDS server?
+A.	----------WDSUTIL /Add
+B.	WDSUTIL /image
+C.	WDSUTIL /prepareimage
+D.	WDSUTIL /addimage
+Câu 37. Lệnh nào trong PowerShell để thay đổi trong GPO có tác dụng ngay lập tức
+A.	Invoke-GPForce
+ 
+B.	Invoke-GPResult
+C.	------------Invoke-GPUpdate
+D.	Invoke-GPExecut
+Câu 38. Để triển khai 2 domain trong cùng 1 forest. Ta phải cấu hình:
+A.	External trust
+B.	Forest trust
+C.	----------Shortcut trust
+D.	Domain trust
+Câu 39. Trong Windows Server 2016, để cấu hình DirectAccess, bạn cần sử dụng công cụ nào?
+A.	-----------Remote Access Management Console
+B.	Group Policy Management Console
+C.	Windows PowerShell
+D.	Active Directory Users and Computers
+Câu 40. Công cụ nào sau đây được sử dụng để quản lý và cấu hình ổ đĩa trong Windows Server 2016?
+A.	----------Disk Management Console.
+B.	File Explorer.
+C.	Command Prompt.
+D.	Task Manager.
+Câu 41. Những gói cập nhật nào được cung cấp bởi Windows Server 2016?
+A.	Critical Updates.
+B.	Security Updates.
+C.	Feature Updates.
+D.	------------Tất cả các phương án đều đúng.
+Câu 42. Trong Windows Server 2016, tính năng Storage Spaces Direct có tác dụng gì?
+A.	Quản lý và cấu hình ổ đĩa trong mạng.
+B.	Tạo và quản lý các máy ảo.
+C.	Tạo các phiên bản sao lưu của dữ liệu.
+D.	---------Tạo một hệ thống lưu trữ hiệu quả và chịu lỗi trên nhiều máy chủ.
+
+
+
+
+
+A.	21
+B.	-----------80
+C.	100
+D.	110
+
+
+A.	/etc/named
+B.	----------/etc/resolv.conf
+C.	/var/named/server.com.vn.dns
+D.	Tất cả đều sai
+
+
+A.	Sửa nội dung tập tin “/etc/sysctl.conf”
+B.	--------------Sửa nội dung file /proc/sys/net/ipv4/ip_forward có giá trị là 1
+C.	Thi hành lệnh echo 1 > ip_forward
+D.	Thi hành lệnh ./proc/sys/net/ipv4/ip_forward
+
+
+A.	ping
+B.	ipconfig
+C.	----------nslookup
+D.	net map
+
+
+A.	-----------Phân giải tên miền từ IP sang tên và ngược lại
+B.	Phân giải địa chỉ MAC sang IP và ngược lại
+C.	Phân giải tên netbios trong mạng LAN
+D.	Cho phép tạo mail để có thể sử dụng dịch vụ SMTP và POP3
+
+
+A.	----------Windows OS
+B.	Linux OS
+C.	Macintosh (MAC) OS
+D.	Android OS
+
+
+A.	Windows 2000, 2003, 2008, 2016, 2019, 2022
+B.	----------Windows NT, 2000 , 2003, 2008, 2016, 2019, 2022
+C.	Windows XP, Vista, Windows 7, Windows 10, Windows 11
+D.	Windows XP, 2003, 2008, Windows 10
+
+
+A.	------------Lưu trữ tại DC, có thể login tại mọi domain member.
+B.	Lưu trữ tại DC, user thuộc máy nào chỉ có thể logon tại máy đó.
+C.	Tồn tại trên từng máy đơn, user thuộc máy nào chỉ có thể logon tại máy đó
+D.	Tồn tại trên từng máy đơn, có thể login tại mọi domain member
+
+
+A.	-----------Chỉnh Preferred DNS về IP của DNS server, sau đó lên domain.
+B.	Chỉnh Preferred DNS về IP chính mình, sau đó lên domain.
+C.	Chỉnh Preferred DNS về IP của router, sau đó lên domain.
+D.	Chỉnh Preferred DNS về IP của Server trong LAN, sau đó lên domain.
+
+
+A.	-----------gpupdate /force
+B.	gpedit /force
+C.	gpeditupdate /force
+D.	net update /force
+Câu 53. Để tạo và quản lý một mạng riêng ảo (Virtual Private Network - VPN) trên Windows Server, bạn sử dụng dịch vụ nào sau đây?
+A.	------------Routing and Remote Access
+B.	Network Load Balancing (NLB)
+C.	Remote Desktop Gateway
+D.	Active Directory Federation Services (ADFS)
+Câu 54. Để tạo và quản lý môi trường ảo hóa trên Windows Server, bạn sử dụng công nghệ nào sau đây?
+A.	----------Hyper-V
+B.	VMware
+C.	VirtualBox
+D.	XenServer
+
+Câu 55. Đâu là công cụ quản lý chính để quản lý và cấu hình các dịch vụ Active Directory trên Windows Server?
+A.	Active Directory Users and Computers
+B.	Active Directory Sites and Services
+C.	--------Active Directory Administrative Center
+D.	ADSI Edit
+Câu 56. Để quản lý và giám sát các thiết bị mạng trong một môi trường Windows Server, bạn sử dụng công cụ nào sau đây?
+A.	Network Policy Server (NPS)
+B.	---------System Center Operations Manager (SCOM)
+C.	Windows Server Update Services (WSUS)
+D.	Remote Server Administration Tools (RSAT)
+Câu 57. Giao thức nào được sử dụng để cấu hình và quản lý các thiết bị mạng, như router và switch, trên mạng Windows Server?
+a)	-----------SNMP
+b)	SSH
+c)	Telnet
+d)	ICMP
+
+
+Câu 58. Để tạo và quản lý máy chủ web trên Windows Server, bạn sử dụng công nghệ nào sau đây?
+a)	------------Internet Information Services (IIS)
+b)	Apache HTTP Server
+c)	Nginx
+d)	Tomcat
+
+
+Câu 59. Đâu là công cụ quản lý chính để quản lý và cấu hình các dịch vụ DHCP trên Windows Server?
+a)	--------DHCP Manager
+b)	DNS Manager
+c)	IIS Manager
+d)	Group Policy Management Console (GPMC)
+
+
+Câu 60. Để quản lý và giám sát tài nguyên mạng, như băng thông và sự sử dụng CPU, trên mạng Windows Server, bạn sử dụng công cụ nào sau đây?
+a)	-----------Performance Monitor
+b)	Task Scheduler
+c)	Event Viewer
+d)	Device Manager
+
+
+Câu 61. Đâu là công cụ quản lý chính để cấu hình và quản lý máy chủ email trên mạng Windows Server?
+a)	--------Microsoft Exchange Server
+b)	Sendmail
+c)	Postfix
+d)	Microsoft Outlook
+
+
+Câu 62. Để quản lý và cấu hình các chính sách mạng, như VLAN và QoS, trên mạng Windows Server, bạn sử dụng công cụ nào sau đây?
+a)	-----------Network Policy Server (NPS)
+b)	Routing and Remote Access
+c)	Windows Firewall with Advanced Security
+d)	Server Manager
+
+
+Câu 63. Đâu là công cụ quản lý chính để cấu hình và quản lý các dịch vụ WINS (Windows Internet Name Service) trên mạng Windows Server?
+a)	------WINS Manager
+b)	DNS Manager
+c)	IIS Manager
+d)	DHCP Manager
+
+Câu 64. Để cấu hình và quản lý các dịch vụ VPN trên mạng Windows Server, bạn sử dụng công nghệ nào sau đây?
+a)	----------PPTP (Point-to-Point Tunneling Protocol)
+b)	L2TP (Layer 2 Tunneling Protocol)
+c)	SSTP (Secure Socket Tunneling Protocol)
+d)	IPSec (Internet Protocol Security)
+
+
+Câu 65. Đâu là công cụ quản lý chính để cấu hình và quản lý các dịch vụ NPS (Network Policy Server) trên mạng Windows Server?
+a)	-----------NPS Manager
+b)	DNS Manager
+c)	IIS Manager
+d)	DHCP Manager
+
+
+Câu 66. Để quản lý và cấu hình các máy tính từ xa trên mạng Windows Server, bạn sử dụng công cụ nào sau đây?
+a)	----------Remote Desktop Connection
+b)	PowerShell Remoting
+c)	Telnet
+d)	SSH
+Câu 67. Câu lệnh nào được sử dụng để liệt kê thông tin về các kết nối mạng đang hoạt động trên một máy tính?
+a)	Get-NetConnection
+b)	--------Get-NetAdapter
+c)	Get-NetRoute
+d)	Get-NetSession
+Câu 68. Câu lệnh nào được sử dụng để tạo một quy tắc tường lửa mới trên Windows Firewall?
+a)	------------New-FirewallRule
+b)	Set-FirewallRule
+c)	Add-FirewallRule
+d)	Enable-FirewallRule
+
+
+Câu 69. Câu lệnh nào được sử dụng để liệt kê thông tin về các dịch vụ đang chạy trên một máy tính từ xa?
+a)	Get-Service
+b)	------------Invoke-Command
+c)	Get-WmiObject
+d)	Get-Process
+
+
+Câu 70. Câu lệnh nào được sử dụng để cấu hình địa chỉ IP cho một card mạng trên một máy tính?
+a)	Set-IPAddress
+b)	Set-NetIPConfiguration
+c)	-----------Set-NetAdapterIPAddress
+d)	Set-NetTCPSetting
+
+
+Câu 71. Câu lệnh nào được sử dụng để xem thông tin về một bản ghi DNS trên máy chủ DNS?
+a)	Get-DNSRecord
+b)	------------Get-DnsServerResourceRecord
+c)	Get-DnsClientCache
+d)	Get-DnsServerStatistics
+
+
+Câu 72. Câu lệnh nào được sử dụng để khởi động lại một dịch vụ trên một máy tính từ xa?
+a)	Restart-Service
+b)	----------Invoke-Command
+c)	Stop-Service
+d)	Start-Service
+
+Câu 73. Câu lệnh nào được sử dụng để tạo một liên kết SMB (Server Message Block) tới một máy chủ từ xa?
+a)	New-SmbMapping
+b)	New-SmbShare
+c)	----------New-PSDrive
+d)	New-Item
+
+
+Câu 74. Câu lệnh nào được sử dụng để xem thông tin về các quyền truy cập tới một tệp tin hoặc thư mục?
+a)	----------Get-Acl
+b)	Get-NTFSPermission
+c)	Get-FileSecurity
+d)	Get-AccessControl
+
+
+Câu 75. Câu lệnh nào được sử dụng để tạo một tác vụ lịch trình (scheduled task) trên một máy tính từ xa?
+a)	New-ScheduledTask
+b)	Invoke-Command
+c)	-----------Register-ScheduledTask
+d)	Set-ScheduledTask
+
+
+Câu 76. Câu lệnh nào được sử dụng để xem thông tin về các ứng dụng cài đặt trên một máy tính từ xa?
+a)	-----------Get-AppxPackage
+b)	Get-InstalledApplication
+c)	Get-RemoteProgram
+d)	Get-Package
+Câu 77. Câu lệnh nào được sử dụng để tạo một quy tắc NAT (Network Address Translation) trên một máy chủ Windows?
+a)	-----------New-NetNat
+b)	Set-NetNat
+c)	Add-NetNat
+d)	Enable-NetNat
+
+
+Câu 78. Câu lệnh nào được sử dụng để xem thông tin về các kết nối mạng đang hoạt động trên một máy chủ từ xa?
+a)	Get-NetConnectionProfile
+b)	------------Get-NetTCPConnection
+c)	Get-NetUDPEndpoint
+d)	Get-NetIPAddress
+
+Câu 79. Câu lệnh nào được sử dụng để tạo một quy tắc DNS (Domain Name System) trên một máy chủ DNS Windows?
+a)	Add-DnsServerQueryResolutionPolicy
+b)	------------Set-DnsServerResourceRecord
+c)	New-DnsServerZone
+d)	Register-DnsServer
+
+Câu 80. Câu lệnh nào được sử dụng để quản lý các chính sách mạng (Network Policy) trên một máy chủ Network Policy Server (NPS)?
+a)	Set-NpsRadiusClient
+b)	Add-NpsRadiusClient
+c)	---------------New-NpsNetworkPolicy
+d)	Enable-NpsHealthRegistration
+
+Sau đây là các mô tả về stater GPO, mô tả nào phù hợp nhất?
+a.
+-----------Starter GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
+b.
+Starter GPO là GPO đầu tiên tác động trên mọi máy client của domain
+c.
+Starter GPO chứa tất cả các thiết lập có trong default domain policy GPO
+d.
+Starter GPO sử dụng một giao diện đơn giản giúp người dùng dễ thao tác
+Question 2
+Router đang ở chế độ EXEC đặc quyền (Chế độ Privileged). Câu lệnh nào dùng để chuyển Router sang chế độ EXEC người dùng (Chế độ User)?
+a.
+login
+b.
+logout
+c.
+enable
+d.
+---------disable
+Question 3
+Dấu nhắc nào cho biết Router đang ở chế độ cấu hình toàn cục (Global Configuration)?
+a.
+Router&gt;
+b.
+--------Router(config)#
+c.
+Router(config-if)#
+d.
+Router#
+Question 4
+Đâu là phát biểu đúng khi nói về Network Base IDS?
+a.
+Phân tích được các lưu lượng đã được mã hóa như SSL, SSH
+b.
+Không có độ trễ giữa thời điểm bị tấn công với thời điểm phát báo động
+c.
+Cho biết việc tấn công có thành công hay không thành công
+d.
+-----------Không cho biết việc tấn công có thành công hay không thành công
+Question 5
+“Hình thức tấn công vào phiên làm việc giữa client và server cách đánh cắp cookie của người sử dụng sau khi họ đã qua bước xác thực với máy chủ, sau đó sẽ chiếm quyền điều khiển của phiên làm việc này.”. Đây là mô tả đúng nhất về hình thức tấn công nào?
+a.
+Network Scanning
+b.
+---------Session Hijacking
+c.
+Spoofing Hijacking
+d.
+Spoofing Attacks
+Question 6
+Có một chức năng trong hệ thống đã được thiết lập là disabled, bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể, trong GPO bạn thiết lập giá trị cho nó là "Not Configured". Kết quả của thiết lập này là?
+a.
+----------Trạng thái của chức năng đó vẫn là disabled
+b.
+Thiết lập này sẽ tạo ra lỗi tranh chấp
+c.
+Trạng thái của chức năng đó sẽ chuyển thành Not Configured
+d.
+Trạng thái của chức năng đó sẽ chuyển thành enabled
+Question 7
+Trong tấn công từ chối dịch vụ phân tán, các máy tính bị cài đặt hay lây nhiễm các chương trình nguy hiểm và bị điều khiển bởi thành phần nào?
+a.
+Victim
+b.
+--------Master hay Handler
+c.
+Slave
+d.
+Bot
+Question 8
+Trong các tác vụ quản trị mạng, quy trình quản trị hiệu năng mạng không bao gồm giai đoạn nào?
+a.
+Thiết lập các ngưỡng hiệu năng cho giá trị của các thông số quan trọng
+b.
+-----------Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống
+c.
+Phân tích dữ liệu
+d.
+Thu thập dữ liệu hiệu năng
+Question 9
+Khi liên kết đối tượng chính sách nhóm GPO vào các đối tượng, có 2 phát biểu như sau:PB1: "Mỗi GPO có thể liên kết đến nhiều đối tượng trên AD."; PB2: "Mỗi đối tượng trên AD có thể liên kết đến nhiều GPO khác nhau.". Hỏi khẳng định nào sau đây là đúng?
+a.
+PB1 sai, PB2 sai
+b.
+PB1 sai, PB2 đúng
+c.
+---------PB1 đúng, PB2 đúng
+d.
+PB1 đúng, PB2 sai
+Question 10
+Trong hệ thống quản trị mạng, bộ phận chịu trách nhiệm kiểm soát quyền truy cập vào mạng dựa trên chính sách được xác định trước được gọi là:
+a.
+Secured Management
+b.
+Active Management
+c.
+Fault Management
+d.
+-------Security Management
+Question 11
+Khi nói về cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP, khẳng định nào sau đây là KHÔNG đúng?
+a.
+Manager sẽ luôn cập nhật được thông tin mới nhất từ Device
+b.
+----------Mỗi khi trong Device xảy ra một sự kiện (event) nào đó thì Device sẽ tự động gửi thông báo cho Manager.
+c.
+Nếu Manager không hỏi thì Device không trả lời, nếu Manager hỏi thì Device phải trả lời.
+d.
+Trung tâm giám sát (manager) sẽ thường xuyên hỏi thông tin của thiết bị cần giám sát (device).
+Question 12
+Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã số để nhận dạng object đó, mã số đó được gọi là gì?
+a.
+OBJ
+b.
+Key
+c.
+MIB
+d.
+---------OID
+Question 13
+Một SNMP agent có thể gửi messages nào?
+a.
+GetRequest
+b.
+--------Response
+c.
+GetNextRequest
+d.
+SetRequest
+Question 14
+Quyền đối với thư mục chia sẻ và quyền NTFS khác nhau như thế nào về việc kiểm soát quyền truy cập vào tài nguyên?
+a.
+----------Không giống như quyền thư mục chia sẻ, quyền NTFS cũng có thể được sử dụng để kiểm soát quyền truy cập vào tài nguyên được lưu trữ cục bộ trên máy tính mà người dùng đăng nhập thực tế.
+b.
+Không giống như quyền NTFS, quyền đối với thư mục chia sẻ chỉ có thể được gán cho người dùng cá nhân chứ không phải cho nhóm.
+c.
+Không giống như quyền thư mục được chia sẻ, quyền NTFS chỉ có thể được áp dụng cho những tệp và thư mục không được chia sẻ.
+d.
+Không giống như quyền NTFS, quyền đối với thư mục chia sẻ không thể được áp dụng cho các thư mục do domain user tạo.
+Question 15
+Trong cấu hình router, đâu là phát biểu đúng?
+a.
+Câu lệnh “show running-config” hiển thị tất cả các câu lệnh show có khả năng thực thi.
+b.
+Câu lệnh “show running-config” hiển thị các câu lệnh đã thực thi trên router đang lưu trong bộ nhớ đệm.
+c.
+-----------Câu lệnh “show running-config” chỉ được thực hiện ở chế độ Privileged (hay còn gọi là chế độ EXEC đặc quyền).
+d.
+Câu lệnh “show running-config” hiển thị các thông tin về hệ điều hành Cisco IOS.
+Question 16
+Trong mô hình mạng Domain, việc chứng thực người dùng đăng nhập vào hệ thống được thực hiện tại:
+a.
+Cả hai nơi: tại Domain Controller và tại máy tính cục bộ
+b.
+----------Tại Domain Controller
+c.
+Không phải chứng thực
+d.
+Máy tính cục bộ đó
+Question 17
+Trên máy tính A, người dùng NEU có quyền NTFS là "Full Control" trên thư mục D:\DATA. Sau đó chia sẻ thư mục này với tên DULIEU và cấp quyền truy cập thư mục chia sẻ cho người dùng NEU là cho phép "Read". Người dùng NEU ngồi tại máy tính B và truy cập vào tài nguyên chia sẻ DULIEU thì sẽ có quyền gì?
+a.
+Write
+b.
+Không được phép truy cập
+c.
+-------Read
+d.
+Full Control
+Question 18
+Trong phần mềm mô phỏng Packet Tracer, sử dụng công cụ nào trong số các công cụ sau đây để tiến hành kiểm tra quá trình gửi và nhận giữa các thiết bị?
+a.
+Draw a polygon
+b.
+Inspect
+c.
+---------Add Simple PDU
+d.
+Place Note
+Question 19
+Điền vào chỗ trống: Trong kiến trúc AD, ……… định nghĩa các đối tượng và các thuộc tính mà dịch vụ thư mục sử dụng để lưu trữ dữ liệu.
+a.
+Domain Controller
+b.
+----------Schema
+c.
+Tree
+d.
+Active Directory
+Question 20
+Sử dụng biện pháp nào sau đây để phòng chống tấn công “Ping Sweep” hiệu quả?
+a.
+Nâng cao ý thức về an toàn thông tin cho người sử dụng
+b.
+------------Cấu hình ở tường lửa (firewall) để chặn các gói tin ICMP mặc định
+c.
+Cấu hình ở tường lửa (firewall) để chặn các gói tin có địa chỉ IP nguồn từ bên ngoài mạng
+d.
+Sử dụng phần mềm diệt virus
+Question 21
+Trong thiết bị Router, thành phần bộ nhớ nào lưu trữ file cấu hình đang chạy của router (running-config)?
+a.
+NVRAM
+b.
+Bộ nhớ Flash
+c.
+---------RAM
+d.
+ROM
+Question 22
+Thứ tự thực hiện các luật (rule) trong chính sách bảo mật (security policy) ở tường lửa (firewall) là:
+a.
+-------------Từ trên xuống
+b.
+Từ chối trước, cho phép sau
+c.
+Cho phép trước, từ chối sau
+d.
+Từ dưới lên
+Question 23
+Trong cấu hình Router, lệnh nào sẽ hiển thị các lệnh hợp lệ (được sử dụng) trong chế độ cấu hình đã cho?
+a.
+help all
+b.
+help
+c.
+---------?
+d.
+*
+Question 24
+Điều gì xảy ra khi bạn di chuyển tệp hoặc thư mục trong cùng một ổ đĩa NTFS?
+a.
+Các quyền được gán cho thư mục có thể thay đổi nếu thư mục đích có nhiều quyền hạn chế hơn.
+b.
+Các quyền được gán cho thư mục được thay đổi để phản ánh các quyền của thư mục đích.
+c.
+---------Các quyền được chỉ định cho thư mục không thay đổi.
+d.
+Tất cả các quyền được chỉ định cho thư mục đều bị vô hiệu hóa và cần được áp dụng lại.
+Question 25
+Trong cấu hình router, đâu là phát biểu đúng khi nói về khoảng cách quản trị - AD (Administrative Distance)?
+a.
+AD được sử dụng để định danh một router láng giềng
+b.
+Trong trường hợp router được cài đặt từ 2 giao thức định tuyến trở lên thì giao thức định tuyến nào có AD lớn hơn sẽ được router sử dụng.
+c.
+-----------AD là một số nguyên nhận giá trị từ 0 đến 255
+d.
+AD tự động giảm giá trị mỗi khi đi qua một nút kế tiếp
+
