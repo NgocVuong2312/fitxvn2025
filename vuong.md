@@ -1,43 +1,30 @@
 Câu 1. Đặc điểm của mail offline là:
-
-
 A.	-------Server mail nội bộ phải hoạt động liên tục (24/24)
 B.	Thuê host mail của nhà cung cấp dịch vụ
 C.	Server mail nội bộ không cần chạy liên tục
 D.	Câu b và c là đúng
-
 Câu 8. Để thực hiện phân giải ngược cho các máy thuộc mạng 192.168.20.0 ta cần định
 nghĩa zone có tên
-
-
 A.	192.168.20.in-addr.arpa
 B.	192.168.20.0.in-addr.arpa
 C.	-------20.168.192.in-addr.arpa
 D.	0.20.168.192.in-addr.arpa
-
-
-
 Câu 9. Để thiết lập địa chỉ IP cho card mạng eth0 dùng lệnh ifconfig, ta phải thực hiện lệnh
 nào?
-
 A.	ifconfig eth0 172.16.10.11/255.255.255.0
 B.	-------ifconfig eth0 172.16.10.11 mask 255.255.255.0
 C.	ifconfig eth0 172.16.10.11 netmask 255.255.255.0
 D.	ifconfig eth0 172.16.10.11 mask 255.255.255.0
-
 Câu 10. Dịch vụ SMTP chạy ở port nào?
-
 A.	--------25
 B.	26
 C.	30
 D.	54
-
 Câu 13. Làm thế nào để cấu hình một máy tính Windows Server 2016 làm DHCP Server?
 A.	----------Sử dụng công cụ Server Manager để cài đặt dịch vụ DHCP và cấu hình các phạm vi IP
 B.	Sử dụng PowerShell để cài đặt dịch vụ DHCP và cấu hình các phạm vi IP
 C.	Sử dụng lệnh netsh để cài đặt dịch vụ DHCP và cấu hình các phạm vi IP
 D.	Tất cả đều sai.
-
 Câu 14. Với chức năng gì, bạn có thể quản lý các giao diện mạng và cấu hình chúng trong Windows Server 2016?
 A.	Network Address Translation (NAT)
 B.	Remote Access
@@ -127,7 +114,6 @@ Câu 31. Phần mềm nào được sử dụng để quản lý cụm máy ch�
 A.	--------System Center Configuration Manager
 B.	Active Directory Domain Services
 C.	Group Policy Management
- 
 D.	\Windows Deployment Services
 Câu 32. Lệnh nào được sử dụng để kết nối với một máy chủ từ xa trong PowerShell?
 A.	Connect-Server
@@ -156,7 +142,6 @@ C.	WDSUTIL /prepareimage
 D.	WDSUTIL /addimage
 Câu 37. Lệnh nào trong PowerShell để thay đổi trong GPO có tác dụng ngay lập tức
 A.	Invoke-GPForce
- 
 B.	Invoke-GPResult
 C.	------------Invoke-GPUpdate
 D.	Invoke-GPExecut
@@ -185,65 +170,54 @@ A.	Quản lý và cấu hình ổ đĩa trong mạng.
 B.	Tạo và quản lý các máy ảo.
 C.	Tạo các phiên bản sao lưu của dữ liệu.
 D.	---------Tạo một hệ thống lưu trữ hiệu quả và chịu lỗi trên nhiều máy chủ.
-
-
-
-
-
+Câu 43. Dịch vụ www chạy ở port nào?
 A.	21
 B.	-----------80
 C.	100
 D.	110
-
-
+Câu 44. Tập tin nào chứa khai báo địa chỉ máy chủ DNS?
 A.	/etc/named
 B.	----------/etc/resolv.conf
 C.	/var/named/server.com.vn.dns
 D.	Tất cả đều sai
-
-
+Câu 45. Để bật chức năng chuyển gói tin (IP Forward), ta thực hiện:
 A.	Sửa nội dung tập tin “/etc/sysctl.conf”
 B.	--------------Sửa nội dung file /proc/sys/net/ipv4/ip_forward có giá trị là 1
 C.	Thi hành lệnh echo 1 > ip_forward
 D.	Thi hành lệnh ./proc/sys/net/ipv4/ip_forward
-
-
+Câu 46. Lệnh nào dùng để kiểm tra dịch vụ DNS?
 A.	ping
 B.	ipconfig
 C.	----------nslookup
 D.	net map
-
-
+Câu 47. Dịch vụ DNS Server có chức năng chính là gì?
 A.	-----------Phân giải tên miền từ IP sang tên và ngược lại
 B.	Phân giải địa chỉ MAC sang IP và ngược lại
 C.	Phân giải tên netbios trong mạng LAN
 D.	Cho phép tạo mail để có thể sử dụng dịch vụ SMTP và POP3
+Câu 48. Máy tính dùng hệ điều hành nào có thể gia nhập AD (Active Directory) domain?
 
 
 A.	----------Windows OS
 B.	Linux OS
 C.	Macintosh (MAC) OS
 D.	Android OS
-
-
+Câu 49. Máy tính dùng hệ điều hành nào có thể xây dựng thành domain controller?
 A.	Windows 2000, 2003, 2008, 2016, 2019, 2022
 B.	----------Windows NT, 2000 , 2003, 2008, 2016, 2019, 2022
 C.	Windows XP, Vista, Windows 7, Windows 10, Windows 11
 D.	Windows XP, 2003, 2008, Windows 10
-
-
+Câu 50. Đặc điểm của domain user:
 A.	------------Lưu trữ tại DC, có thể login tại mọi domain member.
 B.	Lưu trữ tại DC, user thuộc máy nào chỉ có thể logon tại máy đó.
 C.	Tồn tại trên từng máy đơn, user thuộc máy nào chỉ có thể logon tại máy đó
 D.	Tồn tại trên từng máy đơn, có thể login tại mọi domain member
-
-
+Câu 51. Để nâng cấp máy domain ta phải:
 A.	-----------Chỉnh Preferred DNS về IP của DNS server, sau đó lên domain.
 B.	Chỉnh Preferred DNS về IP chính mình, sau đó lên domain.
 C.	Chỉnh Preferred DNS về IP của router, sau đó lên domain.
 D.	Chỉnh Preferred DNS về IP của Server trong LAN, sau đó lên domain.
-
-
+Câu 52. Để cập nhật policy trong domain phải sử dụng lệnh:
 A.	-----------gpupdate /force
 B.	gpedit /force
 C.	gpeditupdate /force
@@ -281,56 +255,41 @@ a)	------------Internet Information Services (IIS)
 b)	Apache HTTP Server
 c)	Nginx
 d)	Tomcat
-
-
 Câu 59. Đâu là công cụ quản lý chính để quản lý và cấu hình các dịch vụ DHCP trên Windows Server?
 a)	--------DHCP Manager
 b)	DNS Manager
 c)	IIS Manager
 d)	Group Policy Management Console (GPMC)
-
-
 Câu 60. Để quản lý và giám sát tài nguyên mạng, như băng thông và sự sử dụng CPU, trên mạng Windows Server, bạn sử dụng công cụ nào sau đây?
 a)	-----------Performance Monitor
 b)	Task Scheduler
 c)	Event Viewer
 d)	Device Manager
-
-
 Câu 61. Đâu là công cụ quản lý chính để cấu hình và quản lý máy chủ email trên mạng Windows Server?
 a)	--------Microsoft Exchange Server
 b)	Sendmail
 c)	Postfix
 d)	Microsoft Outlook
-
-
 Câu 62. Để quản lý và cấu hình các chính sách mạng, như VLAN và QoS, trên mạng Windows Server, bạn sử dụng công cụ nào sau đây?
 a)	-----------Network Policy Server (NPS)
 b)	Routing and Remote Access
 c)	Windows Firewall with Advanced Security
 d)	Server Manager
-
-
 Câu 63. Đâu là công cụ quản lý chính để cấu hình và quản lý các dịch vụ WINS (Windows Internet Name Service) trên mạng Windows Server?
 a)	------WINS Manager
 b)	DNS Manager
 c)	IIS Manager
 d)	DHCP Manager
-
 Câu 64. Để cấu hình và quản lý các dịch vụ VPN trên mạng Windows Server, bạn sử dụng công nghệ nào sau đây?
 a)	----------PPTP (Point-to-Point Tunneling Protocol)
 b)	L2TP (Layer 2 Tunneling Protocol)
 c)	SSTP (Secure Socket Tunneling Protocol)
 d)	IPSec (Internet Protocol Security)
-
-
 Câu 65. Đâu là công cụ quản lý chính để cấu hình và quản lý các dịch vụ NPS (Network Policy Server) trên mạng Windows Server?
 a)	-----------NPS Manager
 b)	DNS Manager
 c)	IIS Manager
 d)	DHCP Manager
-
-
 Câu 66. Để quản lý và cấu hình các máy tính từ xa trên mạng Windows Server, bạn sử dụng công cụ nào sau đây?
 a)	----------Remote Desktop Connection
 b)	PowerShell Remoting
@@ -346,56 +305,41 @@ a)	------------New-FirewallRule
 b)	Set-FirewallRule
 c)	Add-FirewallRule
 d)	Enable-FirewallRule
-
-
 Câu 69. Câu lệnh nào được sử dụng để liệt kê thông tin về các dịch vụ đang chạy trên một máy tính từ xa?
 a)	Get-Service
 b)	------------Invoke-Command
 c)	Get-WmiObject
 d)	Get-Process
-
-
 Câu 70. Câu lệnh nào được sử dụng để cấu hình địa chỉ IP cho một card mạng trên một máy tính?
 a)	Set-IPAddress
 b)	Set-NetIPConfiguration
 c)	-----------Set-NetAdapterIPAddress
 d)	Set-NetTCPSetting
-
-
 Câu 71. Câu lệnh nào được sử dụng để xem thông tin về một bản ghi DNS trên máy chủ DNS?
 a)	Get-DNSRecord
 b)	------------Get-DnsServerResourceRecord
 c)	Get-DnsClientCache
 d)	Get-DnsServerStatistics
-
-
 Câu 72. Câu lệnh nào được sử dụng để khởi động lại một dịch vụ trên một máy tính từ xa?
 a)	Restart-Service
 b)	----------Invoke-Command
 c)	Stop-Service
 d)	Start-Service
-
 Câu 73. Câu lệnh nào được sử dụng để tạo một liên kết SMB (Server Message Block) tới một máy chủ từ xa?
 a)	New-SmbMapping
 b)	New-SmbShare
 c)	----------New-PSDrive
 d)	New-Item
-
-
 Câu 74. Câu lệnh nào được sử dụng để xem thông tin về các quyền truy cập tới một tệp tin hoặc thư mục?
 a)	----------Get-Acl
 b)	Get-NTFSPermission
 c)	Get-FileSecurity
 d)	Get-AccessControl
-
-
 Câu 75. Câu lệnh nào được sử dụng để tạo một tác vụ lịch trình (scheduled task) trên một máy tính từ xa?
 a)	New-ScheduledTask
 b)	Invoke-Command
 c)	-----------Register-ScheduledTask
 d)	Set-ScheduledTask
-
-
 Câu 76. Câu lệnh nào được sử dụng để xem thông tin về các ứng dụng cài đặt trên một máy tính từ xa?
 a)	-----------Get-AppxPackage
 b)	Get-InstalledApplication
@@ -406,14 +350,11 @@ a)	-----------New-NetNat
 b)	Set-NetNat
 c)	Add-NetNat
 d)	Enable-NetNat
-
-
 Câu 78. Câu lệnh nào được sử dụng để xem thông tin về các kết nối mạng đang hoạt động trên một máy chủ từ xa?
 a)	Get-NetConnectionProfile
 b)	------------Get-NetTCPConnection
 c)	Get-NetUDPEndpoint
 d)	Get-NetIPAddress
-
 Câu 79. Câu lệnh nào được sử dụng để tạo một quy tắc DNS (Domain Name System) trên một máy chủ DNS Windows?
 a)	Add-DnsServerQueryResolutionPolicy
 b)	------------Set-DnsServerResourceRecord
@@ -425,256 +366,155 @@ a)	Set-NpsRadiusClient
 b)	Add-NpsRadiusClient
 c)	---------------New-NpsNetworkPolicy
 d)	Enable-NpsHealthRegistration
-
 Sau đây là các mô tả về stater GPO, mô tả nào phù hợp nhất?
-a.
------------Starter GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
-b.
-Starter GPO là GPO đầu tiên tác động trên mọi máy client của domain
-c.
-Starter GPO chứa tất cả các thiết lập có trong default domain policy GPO
-d.
-Starter GPO sử dụng một giao diện đơn giản giúp người dùng dễ thao tác
+a.-----------Starter GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
+b.Starter GPO là GPO đầu tiên tác động trên mọi máy client của domain
+c.Starter GPO chứa tất cả các thiết lập có trong default domain policy GPO
+d.Starter GPO sử dụng một giao diện đơn giản giúp người dùng dễ thao tác
 Question 2
 Router đang ở chế độ EXEC đặc quyền (Chế độ Privileged). Câu lệnh nào dùng để chuyển Router sang chế độ EXEC người dùng (Chế độ User)?
-a.
-login
-b.
-logout
-c.
-enable
-d.
----------disable
+a.login
+b.logout
+c.enable
+d.---------disable
 Question 3
 Dấu nhắc nào cho biết Router đang ở chế độ cấu hình toàn cục (Global Configuration)?
-a.
-Router&gt;
-b.
---------Router(config)#
-c.
-Router(config-if)#
-d.
-Router#
+a.Router&gt;
+b.--------Router(config)#
+c.Router(config-if)#
+d.Router#
 Question 4
 Đâu là phát biểu đúng khi nói về Network Base IDS?
-a.
-Phân tích được các lưu lượng đã được mã hóa như SSL, SSH
-b.
-Không có độ trễ giữa thời điểm bị tấn công với thời điểm phát báo động
-c.
-Cho biết việc tấn công có thành công hay không thành công
-d.
------------Không cho biết việc tấn công có thành công hay không thành công
+a.Phân tích được các lưu lượng đã được mã hóa như SSL, SSH
+b.Không có độ trễ giữa thời điểm bị tấn công với thời điểm phát báo động
+c.Cho biết việc tấn công có thành công hay không thành công
+d.-----------Không cho biết việc tấn công có thành công hay không thành công
 Question 5
 “Hình thức tấn công vào phiên làm việc giữa client và server cách đánh cắp cookie của người sử dụng sau khi họ đã qua bước xác thực với máy chủ, sau đó sẽ chiếm quyền điều khiển của phiên làm việc này.”. Đây là mô tả đúng nhất về hình thức tấn công nào?
-a.
-Network Scanning
-b.
----------Session Hijacking
-c.
-Spoofing Hijacking
-d.
-Spoofing Attacks
+a.Network Scanning
+b.---------Session Hijacking
+c.Spoofing Hijacking
+d.Spoofing Attacks
 Question 6
 Có một chức năng trong hệ thống đã được thiết lập là disabled, bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể, trong GPO bạn thiết lập giá trị cho nó là "Not Configured". Kết quả của thiết lập này là?
-a.
-----------Trạng thái của chức năng đó vẫn là disabled
-b.
-Thiết lập này sẽ tạo ra lỗi tranh chấp
-c.
-Trạng thái của chức năng đó sẽ chuyển thành Not Configured
-d.
-Trạng thái của chức năng đó sẽ chuyển thành enabled
+a.----------Trạng thái của chức năng đó vẫn là disabled
+b.Thiết lập này sẽ tạo ra lỗi tranh chấp
+c.Trạng thái của chức năng đó sẽ chuyển thành Not Configured
+d.Trạng thái của chức năng đó sẽ chuyển thành enabled
 Question 7
 Trong tấn công từ chối dịch vụ phân tán, các máy tính bị cài đặt hay lây nhiễm các chương trình nguy hiểm và bị điều khiển bởi thành phần nào?
-a.
-Victim
-b.
---------Master hay Handler
-c.
-Slave
-d.
-Bot
+a.Victim
+b.--------Master hay Handler
+c.Slave
+d.Bot
 Question 8
 Trong các tác vụ quản trị mạng, quy trình quản trị hiệu năng mạng không bao gồm giai đoạn nào?
-a.
-Thiết lập các ngưỡng hiệu năng cho giá trị của các thông số quan trọng
-b.
------------Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống
-c.
-Phân tích dữ liệu
-d.
-Thu thập dữ liệu hiệu năng
+a.Thiết lập các ngưỡng hiệu năng cho giá trị của các thông số quan trọng
+b.-----------Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống
+c.Phân tích dữ liệu
+d.Thu thập dữ liệu hiệu năng
 Question 9
 Khi liên kết đối tượng chính sách nhóm GPO vào các đối tượng, có 2 phát biểu như sau:PB1: "Mỗi GPO có thể liên kết đến nhiều đối tượng trên AD."; PB2: "Mỗi đối tượng trên AD có thể liên kết đến nhiều GPO khác nhau.". Hỏi khẳng định nào sau đây là đúng?
-a.
-PB1 sai, PB2 sai
-b.
-PB1 sai, PB2 đúng
-c.
----------PB1 đúng, PB2 đúng
-d.
-PB1 đúng, PB2 sai
+a.PB1 sai, PB2 sai
+b.PB1 sai, PB2 đúng
+c.--------PB1 đúng, PB2 đúng
+d.PB1 đúng, PB2 sai
 Question 10
 Trong hệ thống quản trị mạng, bộ phận chịu trách nhiệm kiểm soát quyền truy cập vào mạng dựa trên chính sách được xác định trước được gọi là:
-a.
-Secured Management
-b.
-Active Management
-c.
-Fault Management
-d.
--------Security Management
+a.Secured Management
+b.Active Management
+c.Fault Management
+d.-------Security Management
 Question 11
 Khi nói về cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP, khẳng định nào sau đây là KHÔNG đúng?
-a.
-Manager sẽ luôn cập nhật được thông tin mới nhất từ Device
-b.
-----------Mỗi khi trong Device xảy ra một sự kiện (event) nào đó thì Device sẽ tự động gửi thông báo cho Manager.
-c.
-Nếu Manager không hỏi thì Device không trả lời, nếu Manager hỏi thì Device phải trả lời.
-d.
-Trung tâm giám sát (manager) sẽ thường xuyên hỏi thông tin của thiết bị cần giám sát (device).
+a.Manager sẽ luôn cập nhật được thông tin mới nhất từ Device
+b.----------Mỗi khi trong Device xảy ra một sự kiện (event) nào đó thì Device sẽ tự động gửi thông báo cho Manager.
+c.Nếu Manager không hỏi thì Device không trả lời, nếu Manager hỏi thì Device phải trả lời.
+d.Trung tâm giám sát (manager) sẽ thường xuyên hỏi thông tin của thiết bị cần giám sát (device).
 Question 12
 Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã số để nhận dạng object đó, mã số đó được gọi là gì?
-a.
-OBJ
-b.
-Key
-c.
-MIB
-d.
----------OID
+a.OBJ
+b.Key
+c.MIB
+d.---------OID
 Question 13
 Một SNMP agent có thể gửi messages nào?
-a.
-GetRequest
-b.
---------Response
-c.
-GetNextRequest
-d.
-SetRequest
+a.GetRequest
+b.--------Response
+c.GetNextRequest
+d.SetRequest
 Question 14
 Quyền đối với thư mục chia sẻ và quyền NTFS khác nhau như thế nào về việc kiểm soát quyền truy cập vào tài nguyên?
-a.
-----------Không giống như quyền thư mục chia sẻ, quyền NTFS cũng có thể được sử dụng để kiểm soát quyền truy cập vào tài nguyên được lưu trữ cục bộ trên máy tính mà người dùng đăng nhập thực tế.
-b.
-Không giống như quyền NTFS, quyền đối với thư mục chia sẻ chỉ có thể được gán cho người dùng cá nhân chứ không phải cho nhóm.
-c.
-Không giống như quyền thư mục được chia sẻ, quyền NTFS chỉ có thể được áp dụng cho những tệp và thư mục không được chia sẻ.
-d.
-Không giống như quyền NTFS, quyền đối với thư mục chia sẻ không thể được áp dụng cho các thư mục do domain user tạo.
+a.----------Không giống như quyền thư mục chia sẻ, quyền NTFS cũng có thể được sử dụng để kiểm soát quyền truy cập vào tài nguyên được lưu trữ cục bộ trên máy tính mà người dùng đăng nhập thực tế.
+b.Không giống như quyền NTFS, quyền đối với thư mục chia sẻ chỉ có thể được gán cho người dùng cá nhân chứ không phải cho nhóm.
+c.Không giống như quyền thư mục được chia sẻ, quyền NTFS chỉ có thể được áp dụng cho những tệp và thư mục không được chia sẻ.
+d.Không giống như quyền NTFS, quyền đối với thư mục chia sẻ không thể được áp dụng cho các thư mục do domain user tạo.
 Question 15
 Trong cấu hình router, đâu là phát biểu đúng?
-a.
-Câu lệnh “show running-config” hiển thị tất cả các câu lệnh show có khả năng thực thi.
-b.
-Câu lệnh “show running-config” hiển thị các câu lệnh đã thực thi trên router đang lưu trong bộ nhớ đệm.
-c.
------------Câu lệnh “show running-config” chỉ được thực hiện ở chế độ Privileged (hay còn gọi là chế độ EXEC đặc quyền).
-d.
-Câu lệnh “show running-config” hiển thị các thông tin về hệ điều hành Cisco IOS.
+a.Câu lệnh “show running-config” hiển thị tất cả các câu lệnh show có khả năng thực thi.
+b.Câu lệnh “show running-config” hiển thị các câu lệnh đã thực thi trên router đang lưu trong bộ nhớ đệm.
+c.-----------Câu lệnh “show running-config” chỉ được thực hiện ở chế độ Privileged (hay còn gọi là chế độ EXEC đặc quyền).
+d.Câu lệnh “show running-config” hiển thị các thông tin về hệ điều hành Cisco IOS.
 Question 16
 Trong mô hình mạng Domain, việc chứng thực người dùng đăng nhập vào hệ thống được thực hiện tại:
-a.
-Cả hai nơi: tại Domain Controller và tại máy tính cục bộ
-b.
-----------Tại Domain Controller
-c.
-Không phải chứng thực
-d.
-Máy tính cục bộ đó
+a.Cả hai nơi: tại Domain Controller và tại máy tính cục bộ
+b.----------Tại Domain Controller
+c.Không phải chứng thực
+d.Máy tính cục bộ đó
 Question 17
 Trên máy tính A, người dùng NEU có quyền NTFS là "Full Control" trên thư mục D:\DATA. Sau đó chia sẻ thư mục này với tên DULIEU và cấp quyền truy cập thư mục chia sẻ cho người dùng NEU là cho phép "Read". Người dùng NEU ngồi tại máy tính B và truy cập vào tài nguyên chia sẻ DULIEU thì sẽ có quyền gì?
-a.
-Write
-b.
-Không được phép truy cập
-c.
--------Read
-d.
-Full Control
+a.Write
+b.Không được phép truy cập
+c.-------Read
+d.Full Control
 Question 18
 Trong phần mềm mô phỏng Packet Tracer, sử dụng công cụ nào trong số các công cụ sau đây để tiến hành kiểm tra quá trình gửi và nhận giữa các thiết bị?
-a.
-Draw a polygon
-b.
-Inspect
-c.
----------Add Simple PDU
-d.
-Place Note
+a.Draw a polygon
+b.Inspect
+c.---------Add Simple PDU
+d.Place Note
 Question 19
 Điền vào chỗ trống: Trong kiến trúc AD, ……… định nghĩa các đối tượng và các thuộc tính mà dịch vụ thư mục sử dụng để lưu trữ dữ liệu.
-a.
-Domain Controller
-b.
-----------Schema
-c.
-Tree
-d.
-Active Directory
+a.Domain Controller
+b.----------Schema
+c.Tree
+d.Active Directory
 Question 20
 Sử dụng biện pháp nào sau đây để phòng chống tấn công “Ping Sweep” hiệu quả?
-a.
-Nâng cao ý thức về an toàn thông tin cho người sử dụng
-b.
-------------Cấu hình ở tường lửa (firewall) để chặn các gói tin ICMP mặc định
-c.
-Cấu hình ở tường lửa (firewall) để chặn các gói tin có địa chỉ IP nguồn từ bên ngoài mạng
-d.
-Sử dụng phần mềm diệt virus
+a.Nâng cao ý thức về an toàn thông tin cho người sử dụng
+b.------------Cấu hình ở tường lửa (firewall) để chặn các gói tin ICMP mặc định
+c.Cấu hình ở tường lửa (firewall) để chặn các gói tin có địa chỉ IP nguồn từ bên ngoài mạng
+d.Sử dụng phần mềm diệt virus
 Question 21
 Trong thiết bị Router, thành phần bộ nhớ nào lưu trữ file cấu hình đang chạy của router (running-config)?
-a.
-NVRAM
-b.
-Bộ nhớ Flash
-c.
----------RAM
-d.
-ROM
+a.NVRAM
+b.Bộ nhớ Flash
+c.---------RAM
+d.ROM
 Question 22
 Thứ tự thực hiện các luật (rule) trong chính sách bảo mật (security policy) ở tường lửa (firewall) là:
-a.
--------------Từ trên xuống
-b.
-Từ chối trước, cho phép sau
-c.
-Cho phép trước, từ chối sau
-d.
-Từ dưới lên
+a.-------------Từ trên xuống
+b.Từ chối trước, cho phép sau
+c.Cho phép trước, từ chối sau
+d.Từ dưới lên
 Question 23
 Trong cấu hình Router, lệnh nào sẽ hiển thị các lệnh hợp lệ (được sử dụng) trong chế độ cấu hình đã cho?
-a.
-help all
-b.
-help
-c.
----------?
-d.
-*
+a.help all
+b.help
+c.--------?
+d.*
 Question 24
 Điều gì xảy ra khi bạn di chuyển tệp hoặc thư mục trong cùng một ổ đĩa NTFS?
-a.
-Các quyền được gán cho thư mục có thể thay đổi nếu thư mục đích có nhiều quyền hạn chế hơn.
-b.
-Các quyền được gán cho thư mục được thay đổi để phản ánh các quyền của thư mục đích.
-c.
----------Các quyền được chỉ định cho thư mục không thay đổi.
-d.
-Tất cả các quyền được chỉ định cho thư mục đều bị vô hiệu hóa và cần được áp dụng lại.
+a.Các quyền được gán cho thư mục có thể thay đổi nếu thư mục đích có nhiều quyền hạn chế hơn.
+b.Các quyền được gán cho thư mục được thay đổi để phản ánh các quyền của thư mục đích.
+c.---------Các quyền được chỉ định cho thư mục không thay đổi.
+d.Tất cả các quyền được chỉ định cho thư mục đều bị vô hiệu hóa và cần được áp dụng lại.
 Question 25
 Trong cấu hình router, đâu là phát biểu đúng khi nói về khoảng cách quản trị - AD (Administrative Distance)?
-a.
-AD được sử dụng để định danh một router láng giềng
-b.
-Trong trường hợp router được cài đặt từ 2 giao thức định tuyến trở lên thì giao thức định tuyến nào có AD lớn hơn sẽ được router sử dụng.
-c.
------------AD là một số nguyên nhận giá trị từ 0 đến 255
-d.
-AD tự động giảm giá trị mỗi khi đi qua một nút kế tiếp
+a.AD được sử dụng để định danh một router láng giềng
+b.Trong trường hợp router được cài đặt từ 2 giao thức định tuyến trở lên thì giao thức định tuyến nào có AD lớn hơn sẽ được router sử dụng.
+c.-----------AD là một số nguyên nhận giá trị từ 0 đến 255
+d.AD tự động giảm giá trị mỗi khi đi qua một nút kế tiếp
 
 Câu 1 Mô hình tường lửa ISA là viết tắt của?
 ----*C. Microsoft Internet Security and Acceleration
@@ -686,7 +526,6 @@ D. Microsoft Internet System and Acknowledgement
 -----*4
 1
 2
-3
 
 Câu 2 Khi cấu hình cho dịch vụ DNS mục Reverse lookup Zone là?
 B. Vùng ánh xạ từ địa chỉ tên miền thành địa chỉ IP
@@ -707,11 +546,9 @@ D. system32\etc\DNS
 C. Unix/etc/bin
 
 3, Chọn định nghĩa đúng nhất về mô hình mạng ngang hàng Peer to Peer)?
-------*Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính nhưng không có máy tính nào đóng
-vai trò phục vụ
+------*Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính nhưng không có máy tính nào đóng vai trò phục vụ
 Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính đóng vai trò Server
-Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính, trong đó có 1 máy tính đóng vai tro
-phục vụ
+Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính, trong đó có 1 máy tính đóng vai tro phục vụ
 Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính đóng vai trò client
 
 Câu 4 DNS chủ yếu hoạt động trên mô hình mạng nào?
@@ -720,8 +557,7 @@ D. Tất cả đều đúng
 B. Peer to peer
 ------*A. Client/Server
 
-4, Các trạm hoạt động trong một mạng vừa như máy phục vụServer vừa như máy khách(Client)
-có thể tìm thấy ở mạng nào?
+4, Các trạm hoạt động trong một mạng vừa như máy phục vụServer vừa như máy khách(Client) có thể tìm thấy ở mạng nào?
 LAN
 Ethernet
 Client - server
@@ -804,15 +640,13 @@ C. DNS server, các Zone, và các Resource Record
 ------*A. DNS server, các Zone, các Resolver và các Resource Record
 D. DNS server, các Resolver, client và các Resource Record
 
-11, Phương pháp đa truy nhập sử dụng sóng mang có phát hiện xung đột CSMA/CD, trong đó "
-CSMA/CD " được viết tắt cho cụm từ nào?
+11, Phương pháp đa truy nhập sử dụng sóng mang có phát hiện xung đột CSMA/CD, trong đó "CSMA/CD " được viết tắt cho cụm từ nào?
 Console Sense Multiple Access With Collision Detection
 Carrier Sense Multiple Access With Control Data
 --------*Carrier Sense Multiple Access With Collision Detection
 Carrier Sense Multiple Access With Collision Data
 
-Câu 12 Khi bạn dùng lệnh nslookup, nếu thấy báo có địa chỉ IP nhưng tên Server là Unknow có
-nghĩa là?
+Câu 12 Khi bạn dùng lệnh nslookup, nếu thấy báo có địa chỉ IP nhưng tên Server là Unknow có nghĩa là?
 C. Máy của bạn không kết nối mạng
 -------*A. DNS server đã cài đặt chưa thành công
 D. Dùng lệnh sai
@@ -873,11 +707,9 @@ Packet
 ---------*Frame
 PSU
 
-Câu 17 Nếu một DNS server không phân giải được tên miền trong cơ sở dữ liệu cục bộ nó sẽ làm
-gì?
+Câu 17 Nếu một DNS server không phân giải được tên miền trong cơ sở dữ liệu cục bộ nó sẽ làm gì?
 C. Gửi trả thông báo không tồn tại tên miền đó cho Resolver
-D. DNS server sẽ tiếp tục gửi truy vấn tới các DNS server khác ở mức cao hơn, để name server
-này sẽ tự gủi trả địa chỉ cho các Resolver
+D. DNS server sẽ tiếp tục gửi truy vấn tới các DNS server khác ở mức cao hơn, để name server này sẽ tự gủi trả địa chỉ cho các Resolver
 ------------*B. DNS server sẽ tiếp tục gửi truy vấn tới các DNS server khác ở mức cao hơn
 A. Dừng phân giải ngay lập tức
 
@@ -1033,9 +865,7 @@ D. 8098
 A. 80
 C. 25
 
-30. Khi gửi đi một gói dữ liệu vào mạng (đến từ các lớp cao hơn), lớp Sessions sẽ xử lý yêu cầu
-này, đưa thêm vào các bit thông tin chịu trách nhiệm cho việc gửi gói dữ liệu đến đúng lớp bên
-dưới nó, đó là lớp?
+30. Khi gửi đi một gói dữ liệu vào mạng (đến từ các lớp cao hơn), lớp Sessions sẽ xử lý yêu cầu này, đưa thêm vào các bit thông tin chịu trách nhiệm cho việc gửi gói dữ liệu đến đúng lớp bên dưới nó, đó là lớp?
 Network
 *Transport
 Application
@@ -1047,15 +877,13 @@ A. Edge Firewall
 B. 3Leg Perimeter
 D. Tất cả đều đúng
 
-31 Khi nhận một gói dữ liệu từ mạng (đến từ các lớp thấp hơn), lớp Mạng sẽ xử lý yêu cầu này tách
-bớt các bit thông tin cần thiết và gửi gói đó lên lớp cao hơn ở trên nó, đó là lớp?
+31 Khi nhận một gói dữ liệu từ mạng (đến từ các lớp thấp hơn), lớp Mạng sẽ xử lý yêu cầu này tách bớt các bit thông tin cần thiết và gửi gói đó lên lớp cao hơn ở trên nó, đó là lớp?
 Presentation
 Data link
 Session
 *Transport
 
-Câu 32 Khi muốn xin lại IP address, DHCP client sẽ gửi lại gói tin DHCP REQUEST trực tiếp cho
-DHCP server mà nó đã xin ban đầu với dạng truyền gói tin nào?
+Câu 32 Khi muốn xin lại IP address, DHCP client sẽ gửi lại gói tin DHCP REQUEST trực tiếp cho DHCP server mà nó đã xin ban đầu với dạng truyền gói tin nào?
 C. Multicast
 *A. Unicast
 D. Tất cả đều sai
@@ -1079,8 +907,7 @@ A. Web Proxy client
 2
 3
 
-Câu 34 Theo thời gian mặc định của DHCP server thì mỗi IP lease chỉ được 8 ngày. Sau khoảng
-thời gian bao lâu thì DHCP client phải tự động gửi một DHCP request trực tiếp tới DHCP server mà
+Câu 34 Theo thời gian mặc định của DHCP server thì mỗi IP lease chỉ được 8 ngày. Sau khoảng thời gian bao lâu thì DHCP client phải tự động gửi một DHCP request trực tiếp tới DHCP server mà
 nó xin ban đầu để xin lại IP address?
 B. 8 ngày (sau khi hết thời gian xin cấp phát IP
 *A. 4 ngày (sau 50% thời gian xin cấp phát IP
@@ -1112,8 +939,6 @@ C. 8080
 D. 2120
 
 37. Địa chỉ IP chia làm mấy phần?
-5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
-https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 12/73
 1 phần là: địa chỉ mạng
 Không chia
 1 phần là: địa chỉ máy
@@ -1263,29 +1088,25 @@ Kết nối Telnet và SSH đều có hỗ trợ bảo mật tốt, tốc độ 
 
 Câu 49 Chức năng của Event Viewer trong DNS là?
 C. Chứa tất cả các Zone nghịch của dịch vụ DNS, zone này được lưu tại máy DNS Server.
-*A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác
-alert, cảnh báo warnings, lỗi errors
+*A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác alert, cảnh báo warnings, lỗi errors
 B. Chứa tất cả các Zone thuận của dịch vụ DNS, zone này được lưu tại máy DNS Server
 D. Tất cả đều sai
 
 51. Hệ điều hành Cisco IOS cung cấp cho các thiết bị với các dịch vụ mạng gì?
 Chức năng định tuyến và chuyển mạch, tin cậy và truy cập bảo mật vào tài nguyên mạng
-*Chức năng định tuyến và chuyển mạch, tin cậy và truy cập bảo mật vào tài nguyên mạng, khả
-năng mở rộng hệ thống
+*Chức năng định tuyến và chuyển mạch, tin cậy và truy cập bảo mật vào tài nguyên mạng, khả năng mở rộng hệ thống
 Chức năng định tuyến và chuyển mạch, khả năng mở rộng hệ thống
 Tin cậy cà truy cập bảo mật vào tài nguyên mạng, khả năng mở rộng hệ thống
 
 Câu 50 Chức năng của Forward Lookup Zones trong DNS là?
-A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác alert,
-cảnh báo warnings, lỗi errors
+A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác alert, cảnh báo warnings, lỗi errors
 C. Chứa tất cả các Zone nghịch của dịch vụ DNS, zone này được lưu tại máy DNS Server.
 *B. Chứa tất cả các Zone thuận của dịch vụ DNS, zone này được lưu tại máy DNS Server
 D. Tất cả đều sai
 
 Câu 51 Chức năng của Reverse Lookup Zones trong DNS là?
 *C. Chứa tất cả các Zone nghịch của dịch vụ DNS, zone này được lưu tại máy DNS Server.
-A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác alert,
-cảnh báo warnings, lỗi errors
+A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác alert, cảnh báo warnings, lỗi errors
 B. Chứa tất cả các Zone thuận của dịch vụ DNS, zone này được lưu tại máy DNS Server
 D. Tất cả đều sai
 
@@ -1296,15 +1117,13 @@ Flash
 Bootstrap
 
 Câu 52 Chính sách mật khẩu Password Policies, chính sách này?
-C. Cho phép bạn giám sát và ghi nhận các sự kiện xảy ra trong hệ thống, trên các đối tượng cũng
-như đối với các người dùng.
+C. Cho phép bạn giám sát và ghi nhận các sự kiện xảy ra trong hệ thống, trên các đối tượng cũng như đối với các người dùng.
 *A. Cho phép bạn qui định chiều dài ngắn nhất của mật khẩu, độ phức tạp của mật khẩu…
 D. Tất cả đều đúng
 B. Cho phép bạn hạn chế tấn công thông qua hình thức logon từ xa
 
 Câu 53 Chính sách khóa tài khoản Account Lockout Policy, chính sách này?
-C. Cho phép bạn giám sát và ghi nhận các sự kiện xảy ra trong hệ thống, trên các đối tượng cũng
-như đối với các người dùng.
+C. Cho phép bạn giám sát và ghi nhận các sự kiện xảy ra trong hệ thống, trên các đối tượng cũng như đối với các người dùng.
 D. Tất cả đều đúng
 *B. Cho phép bạn hạn chế tấn công thông qua hình thức logon từ xa
 A. Cho phép bạn qui định chiều dài ngắn nhất của mật khẩu, độ phức tạp của mật khẩu…
@@ -1330,15 +1149,11 @@ Physical Layer
 
 Câu 55 Chọn phát biểu đúng?
 *D. Tất cả đều đúng
-C. Có nhiều mức độ để gán chính sách nhóm này cho người từng nhóm hoặc từng nhóm từng đối
-tượng.
-B. Chính sách nhóm tự động hủy bỏ tác dụng khi được gỡ bỏ. Chính sách nhóm được áp dụng
-thường xuyên hơn chính sách hệ thống.
-A. Chính sách nhóm chỉ xuất hiện trên miền Active Directory. Chính sách nhóm làm được nhiều
-điều hơn chính sách hệ thống.
+C. Có nhiều mức độ để gán chính sách nhóm này cho người từng nhóm hoặc từng nhóm từng đối tượng.
+B. Chính sách nhóm tự động hủy bỏ tác dụng khi được gỡ bỏ. Chính sách nhóm được áp dụng thường xuyên hơn chính sách hệ thống.
+A. Chính sách nhóm chỉ xuất hiện trên miền Active Directory. Chính sách nhóm làm được nhiều điều hơn chính sách hệ thống.
 
-57. Trong cấu hình Router, Mode đầu tiên khi Telnet truy cập, Mode này bị giới hạn chỉ có thể sử
-dụng một số lệnh như ping hay ssh, là Mode gì?
+57. Trong cấu hình Router, Mode đầu tiên khi Telnet truy cập, Mode này bị giới hạn chỉ có thể sử dụng một số lệnh như ping hay ssh, là Mode gì?
 *Mode user
 Mode Previlidge
 Mode cấu hình
@@ -1356,15 +1171,13 @@ Router(config)#
 Router(config-if)#
 Router>
 
-60. Trong cấu hình Router, Global Configuration Mode Chế độ Global Configuration) có ký hiệu
-thế nào?
+60. Trong cấu hình Router, Global Configuration Mode Chế độ Global Configuration) có ký hiệu thế nào?
 Router>
 Router(config-if)#
 Router#
 *Router(config)#
 
-61. Trong cấu hình Router, nếu đầu dòng lệnh đang ở ký hiệu: Router(config-if)#, thì đang ở chế
-độ nào?
+61. Trong cấu hình Router, nếu đầu dòng lệnh đang ở ký hiệu: Router(config-if)#, thì đang ở chế độ nào?
 Chế độ Previlidge
 Chế độ User
 Chế độ Global Configuration
