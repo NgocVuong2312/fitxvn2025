@@ -676,3 +676,819 @@ c.
 d.
 AD tự động giảm giá trị mỗi khi đi qua một nút kế tiếp
 
+Câu 1 Mô hình tường lửa ISA là viết tắt của?
+----*C. Microsoft Internet Security and Acceleration
+A. Microsoft International Security and Acceleration
+B. Manager Internet Security and Association
+D. Microsoft Internet System and Acknowledgement
+Câu 2 Một đáp án)
+
+1, Phân loại theo khu vực địa lý thì có mấy loại mạng máy tính?
+-----*4
+1
+2
+3
+Câu 3 Một đáp án)
+
+Câu 2 Khi cấu hình cho dịch vụ DNS mục Reverse lookup Zone là?
+B. Vùng ánh xạ từ địa chỉ tên miền thành địa chỉ IP
+D. Chứa toàn bộ zone của DNS
+------*A. Vùng ánh xạ từ địa chỉ IP thành địa chỉ tên miền
+C. Chứa các zone không sử dụng
+Câu 4 Một đáp án)
+
+2, Mạng cục bộ "LAN" được viết tắt cho cụm từ nào?
+Local Area Connection
+Local Area Net
+Local Area Name
+-------*Local Area Network
+Câu 5 Một đáp án)
+
+Câu 3 Thông tin về DNS được ghi ở đâu?
+B. Win/bin/etc/DNS
+D. system32\etc\DNS
+----*A. Window\system32\DNS
+C. Unix/etc/bin
+Câu 6 Một đáp án)
+
+3, Chọn định nghĩa đúng nhất về mô hình mạng ngang hàng Peer to Peer)?
+------*Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính nhưng không có máy tính nào đóng
+vai trò phục vụ
+Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính đóng vai trò Server
+Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính, trong đó có 1 máy tính đóng vai tro
+phục vụ
+Mạng ngang hàng cung cấp kết nối cơ bản giữa các máy tính đóng vai trò client
+Câu 7 Một đáp án)
+
+Câu 4 DNS chủ yếu hoạt động trên mô hình mạng nào?
+C. Server-based
+D. Tất cả đều đúng
+B. Peer to peer
+------*A. Client/Server
+Câu 8 Một đáp án)
+
+4, Các trạm hoạt động trong một mạng vừa như máy phục vụServer vừa như máy khách(Client)
+có thể tìm thấy ở mạng nào?
+LAN
+Ethernet
+Client - server
+------*Peer to Peer
+Câu 9 Một đáp án)
+
+Câu 5 Hệ thống phân giải tên miền DNS ra đời năm nào?
+B. 1981
+C. 1985
+-------*A. 1984
+D. 1995
+Câu 10 Một đáp án)
+5, Mô hình mạng nào có máy phục vụ cung cấp các tài nguyên và dịch vụ cho các máy máy
+khách trong mạng?
+*Ethernet
+Peer to Peer
+Client - Server
+LAN
+Câu 11 Một đáp án)
+
+Câu 6 Trường hợp nào sau đây là sai đối với DNS Root server?
+-----*A. Không nhất thiết phải có DNS root server
+Root server được sử dụng để định tuyến các yêu cầu tới các server tiếp theo
+Root DNS database được duy trì bởi người có thẩm quyền
+Các Root server cung cấp các địa chỉ để các server domain kết hợp với root đó
+Câu 12 Một đáp án)
+
+6, Topo mạng cục bộ nào mà tất cả các trạm phân chia chung một đường truyền chính?
+Star
+Hybird
+Ring
+----*Bus
+Câu 13 Một đáp án)
+
+Câu 7 DNS name root được quản lý bởi tổ chức nào?
+------*A. ICANN
+B. INIC
+C. ISO
+D. ICAN
+Câu 14 Một đáp án)
+
+7, Có những hình trạng mạng Lan thông dụng Topology Lan) nào?
+Ethernet
+------*Ring,Star,Bus
+Client - Server
+Peer to Peer
+Câu 15 Một đáp án)
+
+Câu 8 Ký hiệu mặc định của Root name là gì?
+------*A. (.)
+C. (*)
+B. Không có
+D. (\)
+Câu 16 Một đáp án)
+
+8,Công nghệ mạng Lan nào sử dụng phổ biến hiện nay?
+ADSL
+FDDI
+-------*Ethernet
+Token ring
+Câu 17 Một đáp án)
+
+Câu 9 Chọn phát biểu đúng?
+-----*C. Các phương án trên đều đúng
+B. Địa chỉ IP của máy trạm do máy chủ tự động cấp phát
+A. Địa chỉ IP của máy trạm do người dùng tự cài đặt
+Câu 18 Một đáp án)
+
+9, Hiện nay có những loại đường truyền nào trong mạng LAN?
+Sóng viba, hồng ngoại, sóng vô tuyền(radio)
+Cáp quang, sóng vố tuyến
+Cáp đồng trục, cáp xoắn đôi
+------*Tất cả các đáp án trên
+Câu 19 Một đáp án)
+
+Câu 10 Truy vấn đệ quy là gì?
+------*D. Truy vấn giữa Resolver và DNS server
+A. Truy vấn giữa DNS server và DNS server
+B. Không được sử dụng trong DNS
+C. Là một truy vấn trong quá trình cấp phát IP động
+Câu 20 Một đáp án)
+
+10, Có mấy loại kỹ thuật chuyển mạch trong mạng LAN?
+1
+4
+2
+-------*3
+Câu 21 Một đáp án)
+
+Câu 11 Thành phần của DNS gồm?
+B. DNS server, các Zone, các Resolver, client và các Resource Record
+C. DNS server, các Zone, và các Resource Record
+------*A. DNS server, các Zone, các Resolver và các Resource Record
+D. DNS server, các Resolver, client và các Resource Record
+Câu 22 Một đáp án)
+
+11, Phương pháp đa truy nhập sử dụng sóng mang có phát hiện xung đột CSMA/CD, trong đó "
+CSMA/CD " được viết tắt cho cụm từ nào?
+Console Sense Multiple Access With Collision Detection
+Carrier Sense Multiple Access With Control Data
+--------*Carrier Sense Multiple Access With Collision Detection
+Carrier Sense Multiple Access With Collision Data
+Câu 23 Một đáp án)
+
+Câu 12 Khi bạn dùng lệnh nslookup, nếu thấy báo có địa chỉ IP nhưng tên Server là Unknow có
+nghĩa là?
+C. Máy của bạn không kết nối mạng
+-------*A. DNS server đã cài đặt chưa thành công
+D. Dùng lệnh sai
+B. Chưa tìm được DNS server
+Câu 24 Một đáp án)
+
+12, Có mấy loại chuẩn hóa mạng?
+4
+-------*2
+1
+3
+Câu 25 Một đáp án)
+
+Câu 13 Khi cấu hình cho dịch vụ DNS mục Forward lookup Zone là?
+D. Chứa toàn bộ zone của DNS
+B. Vùng ánh xạ từ địa chỉ IP thành địa chỉ tên miền
+C. Chứa các zone không sử dụng
+-----*A. Vùng ánh xạ từ địa chỉ tên miền thành địa chỉ IP
+Câu 26 Một đáp án)
+
+13, Mô hình tham chiếu OSI có mấy lớp?
+------*7
+3
+5
+4
+Câu 27 Một đáp án)
+
+Câu 14 Hệ thống tên miền DNS được cài đặt nhằm để làm gì?
+B. Định danh 1 máy tính trên mạng cục bộ
+C. Để thay thế địa chỉ IP, máy tính sẽ không cần dùng địa chỉ IP nữa
+-------*A. Dễ nhớ địa chỉ máy tính hơn
+D. Giúp Server cấp phát địa chỉ IP cho client
+Câu 28 Một đáp án)
+
+14, Lớp nào cung cấp các phương tiện để người sử dụng có thể truy nhập được vào môi trường
+OSI và cung cấp các dịch vụ thông tin phân tán?
+------*Application
+Session
+Presentation
+Transport
+Câu 29 Một đáp án)
+
+Câu 15 Khi dùng lệnh Ping www.google.com bạn không thấy reply. Nguyên nhân là gì?
+
+---------*A. Do bạn chưa khai báo địa chỉ server DNS cho máy bạn
+B. Trong cơ sở dữ liệu của DNS server không có tên máy này
+C. Do máy có tên miền này không cùng Netid với máy bạn
+D. Tất cả đều sai
+Câu 30 Một đáp án)
+
+15,Tầng 2 trong mô hình OSI tách luồng bit từ tầng vật lý chuyển lên thành?
+Packet
+Segment
+PSU
+-----*Frame
+Câu 31 Một đáp án)
+
+Câu 16 Truy vấn tương tác là?
+A. Truy vấn giữa Resolver và DNS server
+B. Không được sử dụng trong DNS
+D. Tất cả đều sai
+---------*C. Truy vấn giữa DNS server và DNS server
+Câu 32 Một đáp án)
+
+16, Các đơn vị dữ liệu trong giao thức lớp 2 của mô hình OSI được gọi là?
+Segment
+Packet
+---------*Frame
+PSU
+Câu 33 Một đáp án)
+
+Câu 17 Nếu một DNS server không phân giải được tên miền trong cơ sở dữ liệu cục bộ nó sẽ làm
+gì?
+C. Gửi trả thông báo không tồn tại tên miền đó cho Resolver
+D. DNS server sẽ tiếp tục gửi truy vấn tới các DNS server khác ở mức cao hơn, để name server
+này sẽ tự gủi trả địa chỉ cho các Resolver
+------------*B. DNS server sẽ tiếp tục gửi truy vấn tới các DNS server khác ở mức cao hơn
+A. Dừng phân giải ngay lập tức
+Câu 34 Một đáp án)-
+
+17,Các đơn vị dữ liệu trong giao thức lớp 3 của mô hình OSI được gọi là?
+Segment
+Frame
+PSU
+-----------*Packet
+Câu 35 Một đáp án)
+
+Câu 18 Resource Records là gì?
+B. Bản ghi nhật ký của các DNS client khi tham gia vào truy vấn đệ quy
+---------*D. Là danh sách cơ sở dữ liệu được sử dụng để trả lời các truy vấn từ DNS client
+C. Là các Root server
+A. Nơi lưu giữ các Top level name
+Câu 36 Một đáp án)
+
+
+18, Các đơn vị dữ liệu trong giao thức lớp 7 của mô hình OSI được gọi là?
+Frame
+-----------*Data
+Packet
+Segment
+Câu 37 Một đáp án)
+
+Câu 19 Theo bạn nếu không có DNS thì sẽ ra sao?
+C. Chỉ sử dụng mạng Lan
+-------------*A. Phải nhớ địa chỉ IP khi gõ vào một trình duyệt
+B. Không thể truy cập Internet
+D. Phải ghi tên miền ra danh bạ như sử dụng danh bạ điện thoại
+Câu 38 Một đáp án)
+
+19, Thiết bị chọn đường Router hoạt động ở lớp nào trong mô hình OSI?
+Tầng ứng dụng Application Layer)
+---------*Tầng mạng Network Layer)
+Tầng vận chuyển Transport Layer)
+Tầng liên kết dữ liệu Data link Layer)
+Câu 39 Một đáp án)
+
+Câu 20 Một DNS domain namespace gồm?
+A. Root name, Top-Level Domain, Second-level-domain,zone, Subdomain, host
+C. Root name, Top-Level Domain, Second-level-domain, Subdomain
+-------------*D. Root name, Top-Level Domain, Second-level-domain, Subdomain, host
+B. Root name, Top-Level Domain, zone, Subdomain, host
+Câu 40 Một đáp án)-
+
+20, IEEE là gì?
+Là tổ chức trong lĩnh vực cấp phép sản xuất thiết bị mạng
+Là tổ chức quản lý tên miền trên mạng
+--------------*Là tổ chức trong lĩnh vực chuẩn hoá mạng cục bộ
+Là tổ chức quản lý các chuẩn giao thức mạng
+Câu 41 Một đáp án)
+
+Câu 21 Bạn có thể tạo ra máy loại DNS zone?
+A. 1
+B. 2
+D. 4
+
+----------*C. 3
+Câu 42 Một đáp án)
+-
+21, IEEE 802.3 là chuẩn đặc tả gì?
+Kiến trúc mạng
+Mạng cục bộ với Tôp mạng dạng Bus
+Tầng dịch vụ giao thức của mạng
+-----------*Mạng cục bộ dựa trên mạng Ethernet
+Câu 43 Một đáp án)
+
+
+Câu 22 Truy vấn tới 1 name Server là công việc của?
+C. Root hint
+D. Zone
+B. DHCP server
+---------*A. Resolver
+Câu 44 Một đáp án)
+
+22,IEEE 802.11 là chuẩn đặc tả gì?
+Mạng cục bộ với Tôp mạng dạng Ring
+------------*Mạng cục bộ không dây
+Kiến trúc mạng
+Mạng cục bộ dựa trên mạng Ethernet
+Câu 45 Một đáp án)
+
+Câu 23 ISA là sản phẩm của hãng nào?
+D. Novell
+-----------*C. Microsoft
+B. Apple
+A. Bekerly
+Câu 46 Một đáp án)
+
+Câu 24 ISA server 2006 có mấy phiên bản?
+---------*B. 2
+C. 3
+A. 1
+D. 4
+Câu 48 Một đáp án)
+
+24. Các giao thức TCP và UDP làm việc trên lớp bào trong mô hình tham chiếu OSI?
+Physical
+Data link
+Application
+----------*Transport
+Câu 49 Một đáp án)
+
+Câu 25 Microsoft ISA Server 2006 có khả năng bảo vệ như thế nào?
+B. Bảo vệ một máy duy nhất có cài đặt ISA
+D. Tuỳ vào người quản trị cấu hình ISA
+------------A. Bảo vệ toàn hệ thống mạng
+C. Bảo vệ Web server và Mail server
+Câu 50 Một đáp án)
+25. Đối với lớp Mạng trong mô hình tham chiếu OSI, chúng ta có thể phát biểu?
+Nó chịu trách nhiệm mã hoá các gói dữ liệu mạng
+*Tất cả đều đúng
+Các router làm việc trên lớp này
+Nó chịu trách nhiệm cho việc định tuyến các gói tin cần đưa đến đích
+Câu 51 Một đáp án)
+Câu 26 ISA server tối thiểu cần bao nhiêu card mạng?
+*B. 2
+A. 1
+D. 4
+C. 3
+Câu 52 Một đáp án)
+26.Lớp nào trong mô hình tham chiếu OSI có trách nhiệm mã hóa và nén dữ liệu?
+Session
+*Presentation
+Application
+Data link
+Câu 53 Một đáp án)
+Câu 27 ISA client nào không thể chứng thực được User?
+C. Web Proxy client
+D. Tất cả các ý trên đều sai
+*A. SecureNAT client
+B. Firewall client
+Câu 54 Một đáp án)
+27. Các giao thức HTTP, DNS, FTP và SMTP làm việc trên lớp nào trong mô hình OSI?
+*Application
+Presentation
+Data link
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 9/73
+Session
+Câu 55 Một đáp án)
+Câu 28 ISA client nào phải sử dụng cài Software?
+A. SecureNAT client
+C. Web Proxy client
+*B. Firewall client
+D. Tất cả các ý trên
+Câu 56 Một đáp án)
+28 Lớp nào trong mô hình tham chiếu OSI nó ghi rõ các thông tin chi tiết về môi trường truyền
+dẫn, mức điện áp, điều khiển, cáp kết nối,....?
+*Physical
+Transport
+Data link
+Network
+Câu 57 Một đáp án)
+Câu 29 Firewall client có thể cài được trên môi trường nào?
+B. MSDOS
+D. Tất cả các hệ điều hành
+*A. Window
+C. Unix
+Câu 58 Một đáp án)
+29. Các Switch có khả năng đọc trường địa chỉ MAC từ các khung gửi dữ liệu đến chúng. Vậy
+chúng ta có thể nói rằng chúng làm việc trên lớp nào trong mô hình tham chiếu
+Transport
+Session
+Physical
+*Data link
+Câu 59 Một đáp án)
+Câu 30 Web proxy trên ISA chạy port là bao nhiêu?
+*B. 8080
+D. 8098
+A. 80
+C. 25
+Câu 60 Một đáp án)
+30. Khi gửi đi một gói dữ liệu vào mạng (đến từ các lớp cao hơn), lớp Sessions sẽ xử lý yêu cầu
+này, đưa thêm vào các bit thông tin chịu trách nhiệm cho việc gửi gói dữ liệu đến đúng lớp bên
+dưới nó, đó là lớp?
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 10/73
+Network
+*Transport
+Application
+Presentation
+Câu 61 Một đáp án)
+Câu 31 Mô hình ISA nào cho phép ta có thể cài đặt nhiều ISA server trong mạng?
+*C. Front/Back Firewall
+A. Edge Firewall
+B. 3Leg Perimeter
+D. Tất cả đều đúng
+Câu 62 Một đáp án)
+31 Khi nhận một gói dữ liệu từ mạng (đến từ các lớp thấp hơn), lớp Mạng sẽ xử lý yêu cầu này tách
+bớt các bit thông tin cần thiết và gửi gói đó lên lớp cao hơn ở trên nó, đó là lớp?
+Presentation
+Data link
+Session
+*Transport
+Câu 63 Một đáp án)
+Câu 32 Khi muốn xin lại IP address, DHCP client sẽ gửi lại gói tin DHCP REQUEST trực tiếp cho
+DHCP server mà nó đã xin ban đầu với dạng truyền gói tin nào?
+C. Multicast
+*A. Unicast
+D. Tất cả đều sai
+B. Broadcast
+Câu 64 Một đáp án)
+32. Trong mô hình OSI, giao thức ARP thuộc tầng
+Data link
+Session
+*Network
+Presentation
+Câu 65 Một đáp án)
+Câu 33 ISA client chỉ có thể cài trên hệ điều hành Window?
+B. SecureNAT client
+*C. Firewall client
+D. Tất cả các ý trên
+A. Web Proxy client
+Câu 66 Một đáp án)
+34. Mô hình TCP/IP có mấy lớp?
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 11/73
+5
+*4
+2
+3
+Câu 67 Một đáp án)
+Câu 34 Theo thời gian mặc định của DHCP server thì mỗi IP lease chỉ được 8 ngày. Sau khoảng
+thời gian bao lâu thì DHCP client phải tự động gửi một DHCP request trực tiếp tới DHCP server mà
+nó xin ban đầu để xin lại IP address?
+B. 8 ngày (sau khi hết thời gian xin cấp phát IP
+*A. 4 ngày (sau 50% thời gian xin cấp phát IP
+D. Không thể xin cấp lại, DHCP server chỉ cấp phát 1 lần duy nhất
+C. Không phải gửi lại gói tin xin cấp lại, vẫn hoạt động bình thường với IP đã được cấp
+Câu 68 Một đáp án)
+35. Mô hình TCP/IP gồm những lớp nào?
+Physical, Data link, Network, Transport
+Physical, Data link, Transport, Application
+*Network access, Internet, Transport, Application
+Network access, Internet, Network, Transport
+Câu 69 Một đáp án)
+Câu 35 Cổng mặc định của Remote desktop là?
+A. 8098
+*B. 3389
+C. 8080
+D. 2120
+Câu 70 Một đáp án)
+36. Địa chỉ IP dài bao nhiêu Bit?
+16
+126
+*32
+256
+Câu 71 Một đáp án)
+Câu 36 Cổng mặc định của Remote web brower là?
+*A. 8098
+B. 3389
+C. 8080
+D. 2120
+Câu 72 Một đáp án)
+37. Địa chỉ IP chia làm mấy phần?
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 12/73
+1 phần là: địa chỉ mạng
+Không chia
+1 phần là: địa chỉ máy
+*2 phần là : địa chỉ mạng và địa chỉ máy
+Câu 73 Một đáp án)
+Câu 37 Nếu sau 50% thời gian hoạt động DHCP client gủi DHCP request tới DHCP server đã cấp
+phát cho nó địa chỉ IP, nhưng DHCP đó đã ngưng hoạt động, thì sẽ xẩy ra vấn đề gì?
+D. DHCP vẫn hoạt động bình thường đến hết thời gian Lease mặc định thì xin DHCP khác cấp phát
+địa chỉ IP cho mình
+*A. DHCP vẫn hoạt động bình thường đến hết 87,5 thời gian Lease mặc định thì xin DHCP khác
+cấp phát địa chỉ IP cho mình
+B. DHCP client đó không thể kết nối vào mạng nữa
+C. DHCP client vẫn hoạt động bình thường cho đến hết thời gian Lease mặc định ban đầu thì
+ngừng hoạt động, không thể xin cấp phát IP một lần nữa
+Câu 74 Một đáp án)
+38. Địa chỉ lớp A nhận trong khoảng nào?
+*1.0.0.0 đến 127.0.0.0
+1.0.0.0 đến 191.255.0.0
+1.0.0.0 đến 128.0.0.0
+1.0.0.0 đến 223.255.255.0
+Câu 75 Một đáp án)
+Câu 38 Thông tin người dùng được lưu trong tệp nào tại Domain controller server khi sử dụng
+dịch vụ Active Directory?
+A. SAM
+D. SYSTEM32
+B. Gpedit.msc
+*C. NTDS.DIT
+Câu 76 Một đáp án)
+39. Địa chỉ lớp B nhận trong khoảng nào?
+128.0.0.0 đến 240.0.0.0
+*128.0.0.0 đến 191.255.0.0
+1.0.0.0 đến 127.0.0.0
+128.0.0.0 đến 192.0.0.0
+Câu 77 Một đáp án)
+Câu 39 Tệp SAM viết tắt của?
+*A. Security Accounts Manager
+D. Security Access Manager
+C. Security Accounts Management
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 13/73
+B. Set Accounts Manager
+Câu 78 Một đáp án)
+40. Giao thức TCP có định hướng kết nối không?
+*Có
+Không
+Câu 79 Một đáp án)
+Câu 40 Bạn quản trị mạng trong công ty A, tất cả các máy kiểm soát miền là Window server
+2003, bạn sẽ phải cài đặt dịch vụ gì để có thể cấu hình một máy thành Web server?
+*A. IIS
+C. DHCP
+D. Active directory
+B. DNS
+Câu 80 Một đáp án)
+41. Giao thức UDP có định hướng kết nối không?
+*Không
+Có
+Câu 81 Một đáp án)
+Câu 41 Chọn phát biểu đúng về tài khoản cục bộ được tạo trên máy trạm?
+A. Có trên Domain controller
+B. Đăng nhập được trên máy cục bộ và máy chủ
+*D. Không thể truy nhập tài nguyên miền
+C. Quản lý việc đăng nhập
+Câu 82 Một đáp án)
+42. Phần cứng trong router Cisco có NVRAM, FLASH tương đương với thành phần nào trong máy
+PC?
+*HDD
+MAIN
+CPU
+RAM
+Câu 83 Một đáp án)
+Câu 42 Muốn cài đặt dịch vụ AD Active Directory) ta sử dụng lệnh nào sau đây?
+C. Không cần cài đặt vì đã tự động chạy khi cài Window
+*A. Start run dcpromo
+D. Start run gpedit.msc
+B. Khởi động tệp active directory.exe
+Câu 84 Một đáp án)
+43. Phần cứng trong Router Cisco, đầy đủ là gồm?
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 14/73
+MAIN, CPU, RAM, FLASH
+*MAIN, CPU, RAM, NVRAM, FLASH
+MAIN, CPU, RAM
+MAIN, CPU, RAM,NVRAM
+Câu 85 Một đáp án)
+Câu 43 Chọn phát biểu đúng nhất về Domain controller là gì?
+D. Được dùng để lưu thông tin account cục bộ
+A. Chỉ lưu thông tin DNS
+*B. Được sử dụng để quản lý miền
+C. Một máy trạm được quyền truy xuất tài nguyên miền
+Câu 86 Một đáp án)
+44. Trong router, nơi nào lưu file cấu hình: Startup config?
+FLASH
+RAM
+CPU
+*NVRAM
+Câu 87 Một đáp án)
+Câu 44 Chọn phát biểu đúng về OU Organizational Unit)?
+*A. Là một thành phần trong cấu trúc AD
+C. Là đối tượng để làm tăng số miền (domain)
+B. Một nhóm địa chỉ IP để cấp phát động
+D. OU không thể thay thế cho Subdomain
+Câu 88 Một đáp án)
+46. Tên phần mềm giả lập mạng, được hãng Cisco cung cấp, dùng trong học tập sử dụng các
+thiết bị mạng của Cisco ?
+*Packet Tracer
+Advanced IP Scanner
+Network Simulator
+NetSim Standard
+Câu 89 Một đáp án)
+Câu 45 Thế nào được gọi là một Domain?
+A. Gồm các máy hoạt động riêng lẻ
+*B. Một vùng dùng chung cơ sở dữ liệu
+D. Chỉ gồm các server được cài đặt hệ điều hành Window server
+C. Một vùng làm việc với hạn chế về tài nguyên
+Câu 90 Một đáp án)
+47. Cáp Console kết nối từ Router hoặc Switch đến máy tính, trên máy tính sẽ là cổng nào?
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 15/73
+Cổng DisplayPort
+Cổng VGA
+Cổng LAN
+*Cổng COM
+Câu 91 Một đáp án)
+Câu 46 Exchange là sản phẩm của hãng nào?
+D. Novell
+B. Apple
+*C. Microsoft
+A. Bekerly
+Câu 92 Một đáp án)
+48. Trong các cổng sau, cổng nào chỉ hỗ trợ trên Router, cho phép kết nối từ xa thông qua đường
+truyền Modem, ít được sử dụng.
+TELNET
+SSH
+*AUX
+CONSOLE
+Câu 93 Một đáp án)
+Câu 47 Khi cài đặt xong DNS, có mấy thành phần trong DNS?
+A. 2
+D. 5
+*B. 3
+C. 4
+Câu 94 Một đáp án)
+49. Cáp có một đầu là cổng COM để cắm vào máy tính, một đầu cáp là cổng RJ45 kết nối với
+Router . Hỏi cáp đó dùng để kết nối cổng gì trên Router ?
+*CONSOLE
+TELNET
+SSH
+AUX
+Câu 95 Một đáp án)
+Câu 48 Khi cài đặt xong DNS, những thành phần nào có trong DNS?
+B. Forward Lookup Server, Reverse Lookup Server, Event Viewer
+D. Forward Lookup Server, Reverse Lookup Server, Event Lookup Server
+*A. Forward Lookup Zones, Reverse Lookup Zones, Event Viewer
+C. Forward Lookup Zones, Reverse Lookup Zones, Event Lookup Zones
+Câu 96 Một đáp án)
+50. Phát biểu nào sau đây là đúng về sự so sánh hai loại kế nối Telnet và SSH?
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 16/73
+Kết nối Telnet và SSH đều không hỗ trợ bảo mật, tốc độ tương đương
+Kết nối Telnet có tốc độ chậm hơn, nhưng hỗ trợ bảo mật tốt hơn SSH
+*Kết nối Telnet có tốc độ nhanh hơn, nhưng hỗ trợ bảo mật kém hơn SSH
+Kết nối Telnet và SSH đều có hỗ trợ bảo mật tốt, tốc độ tương đương
+Câu 97 Một đáp án)
+Câu 49 Chức năng của Event Viewer trong DNS là?
+C. Chứa tất cả các Zone nghịch của dịch vụ DNS, zone này được lưu tại máy DNS Server.
+*A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác
+alert, cảnh báo warnings, lỗi errors
+B. Chứa tất cả các Zone thuận của dịch vụ DNS, zone này được lưu tại máy DNS Server
+D. Tất cả đều sai
+Câu 98 Một đáp án)
+51. Hệ điều hành Cisco IOS cung cấp cho các thiết bị với các dịch vụ mạng gì?
+Chức năng định tuyến và chuyển mạch, tin cậy và truy cập bảo mật vào tài nguyên mạng
+*Chức năng định tuyến và chuyển mạch, tin cậy và truy cập bảo mật vào tài nguyên mạng, khả
+năng mở rộng hệ thống
+Chức năng định tuyến và chuyển mạch, khả năng mở rộng hệ thống
+Tin cậy cà truy cập bảo mật vào tài nguyên mạng, khả năng mở rộng hệ thống
+Câu 99 Một đáp án)
+Câu 50 Chức năng của Forward Lookup Zones trong DNS là?
+A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác alert,
+cảnh báo warnings, lỗi errors
+C. Chứa tất cả các Zone nghịch của dịch vụ DNS, zone này được lưu tại máy DNS Server.
+*B. Chứa tất cả các Zone thuận của dịch vụ DNS, zone này được lưu tại máy DNS Server
+D. Tất cả đều sai
+Câu 100 Một đáp án)
+52. Quá trình khởi động của Router?
+Điện sẽ được nạp vào ROM , kiểm tra các thiết bị phần cứng , IOS sẽ được load từ bộ nhớ Flash ,
+Bootstrap sẽ liên lạc với 10s , IOS và Startup Config được load vào RAM tạo thành file chạy
+Running config , file cấu hình được copy từ bộ nhở NVRAM .
+*Điện sẽ được nạp vào ROM , kiểm tra các thiết bị phần cứng , Bootstrap sẽ liên lạc với IOS , IOS
+sẽ được load từ bộ nhớ Flash , file cấu hình được copy từ bộ nhớ NVRAM , IOS và Startup Config
+được load vào RAM tạo thành file chạy Running config .
+Điện sẽ được nạp vào ROM , kiểm tra các thiết bị phần cứng , IOS sẽ được load từ bộ nhớ Flash ,
+file cấu hình được Copy từ bộ nhớ NVRAM , Bootstrap sẽ liên lạc với IOS , IOS và Startup Config
+được load vào RAM tạo thành file chạy Running config .
+Điện sẽ được nạp vào ROM , kiểm tra các thiết bị phần cứng , Bootstrap sẽ liên lạc với IOS , IOS sẽ
+được load từ bộ nhớ Flash , IOS và Startup Config được load vào RAM tạo thành file chạy Running
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 17/73
+config , file cấu hình được copy từ bộ nhớ NVRAM .
+Câu 101 Một đáp án)
+Câu 51 Chức năng của Reverse Lookup Zones trong DNS là?
+*C. Chứa tất cả các Zone nghịch của dịch vụ DNS, zone này được lưu tại máy DNS Server.
+A. Đây là trình theo dõi sự kiện nhật ký dịch vụ DNS, nó sẽ lưu trữ các thông tin về cảnh giác alert,
+cảnh báo warnings, lỗi errors
+B. Chứa tất cả các Zone thuận của dịch vụ DNS, zone này được lưu tại máy DNS Server
+D. Tất cả đều sai
+Câu 102 Một đáp án)
+53. Quá trình khởi động của Router, thành phần nào hoạt động đầu tiên khi bật điện?
+NVRAM
+*ROM
+Flash
+Bootstrap
+Câu 103 Một đáp án)
+Câu 52 Chính sách mật khẩu Password Policies, chính sách này?
+C. Cho phép bạn giám sát và ghi nhận các sự kiện xảy ra trong hệ thống, trên các đối tượng cũng
+như đối với các người dùng.
+*A. Cho phép bạn qui định chiều dài ngắn nhất của mật khẩu, độ phức tạp của mật khẩu…
+D. Tất cả đều đúng
+B. Cho phép bạn hạn chế tấn công thông qua hình thức logon từ xa
+Câu 104 Một đáp án)
+54. Vị trí PIN trên loại cáp chéo (tương tự 1 đầu chuẩn T568A, 1 đầu chuẩn T568B?
+*pin 1 - pin 3, pin 2 - pin 6, pin 3- pin 1, pin 4 - pin 4, pin 5 - pin 5, pin 6 - pin 2, pin 7 - pin 7, pin 8
+- pin 8
+Pin 1 Pin 2, Pin 2  Pin 1, Pin 3  Pin 6, Pin 4 - pin 4, pin 5 - pin 5, pin 6 - pin 3, pin 7 - pin 7, pin 8 -
+pin 8
+pin 1 - pin 1, pin 2 - pin 2, pin 3 - pin 3, pin 4 - pin 4, pin 5 - pin 5, pin 6 - pin 6, pin 7  Pin 7, Pin 8-
+pin 8
+pin 1 - pin 4, pin 2 - pin 6 , pin 3 -pin 3, pin 4 -pin1, pin 5 - pin 5, pin 6 - pin 2, pin 7 - pin 7, pin 8 -
+pin 8
+Câu 105 Một đáp án)
+Câu 53 Chính sách khóa tài khoản Account Lockout Policy, chính sách này?
+C. Cho phép bạn giám sát và ghi nhận các sự kiện xảy ra trong hệ thống, trên các đối tượng cũng
+như đối với các người dùng.
+D. Tất cả đều đúng
+*B. Cho phép bạn hạn chế tấn công thông qua hình thức logon từ xa
+A. Cho phép bạn qui định chiều dài ngắn nhất của mật khẩu, độ phức tạp của mật khẩu…
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 18/73
+Câu 106 Một đáp án)
+55. Telnet và SSH kết nối tới Router hay Switch thông qua cổng nào?
+Cổng Serial Ports
+Cổng Console
+*Cổng mạng
+Cổng AUX
+Câu 107 Một đáp án)
+Câu 54 Chính sách kiểm tra Audit Policies, chính sách này?
+A. Cho phép bạn qui định chiều dài ngắn nhất của mật khẩu, độ phức tạp của mật khẩu…
+*C. Cho phép bạn giám sát và ghi nhận các sự kiện xảy ra trong hệ thống, trên các đối tượng
+cũng như đối với các người dùng.
+D. Tất cả đều đúng
+B. Cho phép bạn hạn chế tấn công thông qua hình thức logon từ xa
+Câu 108 Một đáp án)
+56. Router là thiết bị thuộc lớp nào của mô hình OSI
+Transport Layer
+*Network Layer
+Data-link layer
+Physical Layer
+Câu 109 Một đáp án)
+Câu 55 Chọn phát biểu đúng?
+*D. Tất cả đều đúng
+C. Có nhiều mức độ để gán chính sách nhóm này cho người từng nhóm hoặc từng nhóm từng đối
+tượng.
+B. Chính sách nhóm tự động hủy bỏ tác dụng khi được gỡ bỏ. Chính sách nhóm được áp dụng
+thường xuyên hơn chính sách hệ thống.
+A. Chính sách nhóm chỉ xuất hiện trên miền Active Directory. Chính sách nhóm làm được nhiều
+điều hơn chính sách hệ thống.
+Câu 110 Một đáp án)
+57. Trong cấu hình Router, Mode đầu tiên khi Telnet truy cập, Mode này bị giới hạn chỉ có thể sử
+dụng một số lệnh như ping hay ssh, là Mode gì?
+*Mode user
+Mode Previlidge
+Mode cấu hình
+Mode vào cổng
+Câu 111 Một đáp án)
+58. Trong cấu hình Router, User Mode (chế độ User) có ký hiệu thế nào?
+*Router>
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 19/73
+Router(config-if)#
+Router#
+Router(config)#
+Câu 112 Một đáp án)
+59. Trong cấu hình Router, Previlidge Mode (chế độ Previlidge) có ký hiệu thế nào
+*Router#
+Router(config)#
+Router(config-if)#
+Router>
+Câu 113 Một đáp án)
+60. Trong cấu hình Router, Global Configuration Mode Chế độ Global Configuration) có ký hiệu
+thế nào?
+Router>
+Router(config-if)#
+Router#
+*Router(config)#
+Câu 114 Một đáp án)
+61. Trong cấu hình Router, nếu đầu dòng lệnh đang ở ký hiệu: Router(config-if)#, thì đang ở chế
+độ nào?
+Chế độ Previlidge
+Chế độ User
+Chế độ Global Configuration
+*Chế độ Interface Configuratioon Mode
+Câu 115 Một đáp án)
+62. Dòng lệnh sau dùng để làm gì: Router(config)# line vty 0 4
+Vào chế độ line console
+Vào chế độ line auxiliary
+không có đáp án đúng
+*Vào chế độ line vty để cho phép telnet
+Câu 116 Một đáp án)
+63. Dòng lệnh sau dùng để làm gì: Router# configure terminal
+*Vào chế độ Global Configuration
+Vào chế độ Previlidge
+Vào chế độ Interface Configuratioon Mode
+Vào chế độ User
+Câu 117 Một đáp án)
+64. Dòng lệnh sau dùng để làm gì: Router> enable
+5/21/25, 3:39 PM EduQuiz - Quản trị mạng from TH26.18(Full đã che)
+https://eduquiz.vn/quiz/83050/quan-tri-mang-from-andrew.html 20/73
+Chuyển chế độ Interface Configuration Mode
+Chuyển chế độ Global Configuration
+*Chuyển vào chế độ Privileged
+Chuyển vào chế độ User
